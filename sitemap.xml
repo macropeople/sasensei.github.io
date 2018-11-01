@@ -15,4 +15,19 @@
      <lastmod>2018-11-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    <url>
+     <loc>/mc-levels/</loc>
+     <lastmod>2018-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/mc-privacy/</loc>
+     <lastmod>2018-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/mc-terms/</loc>
+     <lastmod>2018-11-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>
