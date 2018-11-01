@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "$$SITE_NAME$$ - Documentation\n\n\nOverview\n\n\n$$SITE_NAME$$ is a quiz site that leverages the concepts of 'question based learning' and 'community validated content'.\nIt has been created to provide a knowledge bank by which players can:\n\n\n\n\nLearn (using the flashcards)\n\n\nTest (via questions and quizzes)\n\n\nUnderstand (by writing and reviewing intelligible content)\n\n\n\n\nBy passing questions and quizzes, and especially by submitting (quality) content, you will earn tokens and reputation that can be used to unlock the later levels.  This includes multiplayer, and the ability to create your own test.  In addition, higher privileges come with higher levels (such as the ability to create tags and edit questions).\n\n\nThe following sites are available:\n\n\n\n\nhttps://sasensei.com (covers SAS\u00ae )\n\n\nhttps://www.ruby.cards (covers the language of Ruby)\n\n\nhttps://pilot.cards (for learning to fly)\n\n\n\n\nDocuments\n\n\nThe following information is available on this site:\n\n\n\n\nOverview\n\n\n\n\nOnline resources\n\n\nThe following sites contain additional information:\n\n\nSasensei\n\n\n\n\nLinkedin: https://www.linkedin.com/company/sasensei\n\n\nReddit: https://www.reddit.com/r/sasensei/\n\n\nFacebook: https://www.facebook.com/sasenseichallenge/", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#site_name-documentation", 
+            "text": "", 
+            "title": "$$SITE_NAME$$ - Documentation"
+        }, 
+        {
+            "location": "/#overview", 
+            "text": "$$SITE_NAME$$ is a quiz site that leverages the concepts of 'question based learning' and 'community validated content'.\nIt has been created to provide a knowledge bank by which players can:   Learn (using the flashcards)  Test (via questions and quizzes)  Understand (by writing and reviewing intelligible content)   By passing questions and quizzes, and especially by submitting (quality) content, you will earn tokens and reputation that can be used to unlock the later levels.  This includes multiplayer, and the ability to create your own test.  In addition, higher privileges come with higher levels (such as the ability to create tags and edit questions).  The following sites are available:   https://sasensei.com (covers SAS\u00ae )  https://www.ruby.cards (covers the language of Ruby)  https://pilot.cards (for learning to fly)", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/#documents", 
+            "text": "The following information is available on this site:   Overview", 
+            "title": "Documents"
+        }, 
+        {
+            "location": "/#online-resources", 
+            "text": "The following sites contain additional information:", 
+            "title": "Online resources"
+        }, 
+        {
+            "location": "/#sasensei", 
+            "text": "Linkedin: https://www.linkedin.com/company/sasensei  Reddit: https://www.reddit.com/r/sasensei/  Facebook: https://www.facebook.com/sasenseichallenge/", 
+            "title": "Sasensei"
+        }, 
+        {
+            "location": "/mc-overview/", 
+            "text": "MC Quiz Games - Overview\n\n\nSignup\n\n\nPlayers can signup with email or social media.  Social media is preferred as it provides you with a smoother and safer login experience.\nWe take the minimum possible amount of data from the social media account - just name and email address.  We will never post on your behalf, and we have no interest in scraping your network - we hope you'll recommend us to them instead!\nWhen signing up, after email is verified, you are presented with a statement of how we use your data.  You are able to delete your account at that point, else you can always delete later if needed.  We need to tell you this under GDPR rules.\n\n\nFinally you are asked to select the country you wish to represent.  This lets you see your overall rank within that country under the Leaderboard (don't worry - this is not public - unless you make it to the top 10!)", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/mc-overview/#mc-quiz-games-overview", 
+            "text": "", 
+            "title": "MC Quiz Games - Overview"
+        }, 
+        {
+            "location": "/mc-overview/#signup", 
+            "text": "Players can signup with email or social media.  Social media is preferred as it provides you with a smoother and safer login experience.\nWe take the minimum possible amount of data from the social media account - just name and email address.  We will never post on your behalf, and we have no interest in scraping your network - we hope you'll recommend us to them instead!\nWhen signing up, after email is verified, you are presented with a statement of how we use your data.  You are able to delete your account at that point, else you can always delete later if needed.  We need to tell you this under GDPR rules.  Finally you are asked to select the country you wish to represent.  This lets you see your overall rank within that country under the Leaderboard (don't worry - this is not public - unless you make it to the top 10!)", 
+            "title": "Signup"
+        }
+    ]
+}
