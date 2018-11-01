@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/mc-levels/", 
-            "text": "Sasensei - Levels\n\n\nWhite Belt\n\n\nNew players have access to Run Cards only - to unlock more levels, you must prove yourself by earning tokens.\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions you took.\n\n\nXXX_RANK3_XXX\n\n\nAuto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if accepted you will begin earning tokens and reputation every time your card is voted up!\n\n\nXXX_RANK4_XXX\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nXXX_RANK5_XXX\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nXXX_RANK6_XXX\n\n\nThis rank enables MULTIPLAYER mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nXXX_RANK7_XXX\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
+            "text": "Sasensei - Levels\n\n\nWhite Belt\n\n\nNew players have access to Run Cards only - to unlock more levels, you must prove yourself by earning tokens.\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions you took.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if accepted you will begin earning tokens and reputation every time your card is voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables MULTIPLAYER mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
             "title": "Levels"
         }, 
         {
@@ -68,27 +68,27 @@
         {
             "location": "/mc-levels/#xxx_rank3_xxx", 
             "text": "Auto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if accepted you will begin earning tokens and reputation every time your card is voted up!", 
-            "title": "XXX_RANK3_XXX"
+            "title": "Green Belt"
         }, 
         {
             "location": "/mc-levels/#xxx_rank4_xxx", 
             "text": "Auto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!", 
-            "title": "XXX_RANK4_XXX"
+            "title": "Black Belt"
         }, 
         {
             "location": "/mc-levels/#xxx_rank5_xxx", 
             "text": "This rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.", 
-            "title": "XXX_RANK5_XXX"
+            "title": "Sasamurai"
         }, 
         {
             "location": "/mc-levels/#xxx_rank6_xxx", 
             "text": "This rank enables MULTIPLAYER mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.", 
-            "title": "XXX_RANK6_XXX"
+            "title": "Assassin"
         }, 
         {
             "location": "/mc-levels/#xxx_rank7_xxx", 
             "text": "This position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
-            "title": "XXX_RANK7_XXX"
+            "title": "Sasensei"
         }
     ]
 }
