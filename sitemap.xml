@@ -16,7 +16,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mc-games/</loc>
+     <loc>/mc-flashcards/</loc>
+     <lastmod>2018-11-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/mc-questions/</loc>
+     <lastmod>2018-11-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/mc-quizzes/</loc>
      <lastmod>2018-11-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
