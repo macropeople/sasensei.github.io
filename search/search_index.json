@@ -86,49 +86,49 @@
             "title": "Sasensei"
         }, 
         {
-            "location": "/mc-levels/", 
-            "text": "sasensei.com - Levels\n\n\nWhite Belt\n\n\nNew players have access to Run Cards only - to unlock more levels, you must prove yourself by earning tokens.\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions you took.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if accepted you will begin earning tokens and reputation every time your card is voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables MULTIPLAYER mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
+            "location": "/mc-games/", 
+            "text": "sasensei.com - Games\n\n\nFlashcards\n\n\nFlashcards contain a variety of content, which can be filtered by Tag, Difficulty, or searching the Title and Body.  If you think a flashcard contains good (or bad) content, be sure to vote it up or down - and comment if you think it can be improved!\n\n\nQuestions\n\n\nQuestions are categorised by Tag, and also by difficulty (pass rate).\n\n\nRun\n\n\nRUN cards lets you choose a topic and answer questions on that subject area.  It costs 2 tokens to play, and you can keep playing so long as you answer correctly.  After 2 correct answers, you earn 1 token for every correct answer.  If you answer a question correctly first time, you earn 1 reputation.  Otherwise, any questions you get wrong will come back to you in future attempts.  Once you have answered a question correctly, you will not see it again (in RUN cards).  The first 5 questions are easy (pass rate \n 75%).  The next 5 are harder (pass rate \n 60%).  After that, the questions are randomly selected from any difficulty level.\n\n\nThe top 20 all-time streaks are visible \nhere\n\n\nBe sure to VOTE if you think a question is good or bad!  This way we can reward good content, and filter out bad content.  Voting also reveals the Statistical Analysis Section, and also gives you an additional reputation point (whether your vote is up, down, or indifferent).\n\n\nOnce you have acheived Yellow Belt you can comment on questions - the purpose of this is to provide feedback to improve the question for future players. Be nice :-)\n\n\nTaken\n\n\nThe rank of Yellow Belt lets you review the last 12 questions you took.  This is a good opportunity to review the questions you got wrong so that you can last longer on your next streak.\n\n\nSubmit\n\n\nWant to know a secret?  They way to get a REALLY high score, is to submit good quality questions for others to enjoy! A good quality question does not need to be difficult - rather it should be well written (spelling, grammar), be somewhat interesting, unambiguous, and have an explanation that will help the player to really learn something - whether they got the answer right or wrong.  Links to official documentation or further resources should always be provided.\n\n\nIt costs 2 tokens to submit a question (to reduce spam) and questions are sent for Review before they are available in the main game.  After that you will earn 1 token and 2 rep for every upvote.  Thanks for contributing - new questions keep the game interesting for regular players, and evens the playing field for newer players!\n\n\nAnswers can be single or multiple choice.  Most players prefer single choice.  The User Input style is not available unless your rank is Sasensei (they should be used sparingly, as it is relatively unpopular to have to use your keyboard, plus these type of questions are easy to create badly).  Also the ability to create tags is restricted to players at Sasensei rank.  If you believe a new tag is necessary, do get in \ntouch\n.\n\n\nSubmitted\n\n\nThis page lets you perform a full text search across of the questions you have submitted, and sort by number of votes, pass rate, etc.  You can also edit your questions (if you do, they will go back into review before the new version is released).\n\n\nQuizzes\n\n\nIt is possible to partake in public quizzes, multiplayer quiz games, and also to create private tests for students.", 
             "title": "Games"
         }, 
         {
-            "location": "/mc-levels/#xxx_site_name_xxx-levels", 
+            "location": "/mc-games/#xxx_site_name_xxx-games", 
             "text": "", 
-            "title": "sasensei.com - Levels"
+            "title": "sasensei.com - Games"
         }, 
         {
-            "location": "/mc-levels/#xxx_rank1_xxx", 
-            "text": "New players have access to Run Cards only - to unlock more levels, you must prove yourself by earning tokens.", 
-            "title": "White Belt"
+            "location": "/mc-games/#flashcards", 
+            "text": "Flashcards contain a variety of content, which can be filtered by Tag, Difficulty, or searching the Title and Body.  If you think a flashcard contains good (or bad) content, be sure to vote it up or down - and comment if you think it can be improved!", 
+            "title": "Flashcards"
         }, 
         {
-            "location": "/mc-levels/#xxx_rank2_xxx", 
-            "text": "Auto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions you took.", 
-            "title": "Yellow Belt"
+            "location": "/mc-games/#questions", 
+            "text": "Questions are categorised by Tag, and also by difficulty (pass rate).", 
+            "title": "Questions"
         }, 
         {
-            "location": "/mc-levels/#xxx_rank3_xxx", 
-            "text": "Auto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if accepted you will begin earning tokens and reputation every time your card is voted up!", 
-            "title": "Green Belt"
+            "location": "/mc-games/#run", 
+            "text": "RUN cards lets you choose a topic and answer questions on that subject area.  It costs 2 tokens to play, and you can keep playing so long as you answer correctly.  After 2 correct answers, you earn 1 token for every correct answer.  If you answer a question correctly first time, you earn 1 reputation.  Otherwise, any questions you get wrong will come back to you in future attempts.  Once you have answered a question correctly, you will not see it again (in RUN cards).  The first 5 questions are easy (pass rate   75%).  The next 5 are harder (pass rate   60%).  After that, the questions are randomly selected from any difficulty level.  The top 20 all-time streaks are visible  here  Be sure to VOTE if you think a question is good or bad!  This way we can reward good content, and filter out bad content.  Voting also reveals the Statistical Analysis Section, and also gives you an additional reputation point (whether your vote is up, down, or indifferent).  Once you have acheived Yellow Belt you can comment on questions - the purpose of this is to provide feedback to improve the question for future players. Be nice :-)", 
+            "title": "Run"
         }, 
         {
-            "location": "/mc-levels/#xxx_rank4_xxx", 
-            "text": "Auto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!", 
-            "title": "Black Belt"
+            "location": "/mc-games/#taken", 
+            "text": "The rank of Yellow Belt lets you review the last 12 questions you took.  This is a good opportunity to review the questions you got wrong so that you can last longer on your next streak.", 
+            "title": "Taken"
         }, 
         {
-            "location": "/mc-levels/#xxx_rank5_xxx", 
-            "text": "This rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.", 
-            "title": "Sasamurai"
+            "location": "/mc-games/#submit", 
+            "text": "Want to know a secret?  They way to get a REALLY high score, is to submit good quality questions for others to enjoy! A good quality question does not need to be difficult - rather it should be well written (spelling, grammar), be somewhat interesting, unambiguous, and have an explanation that will help the player to really learn something - whether they got the answer right or wrong.  Links to official documentation or further resources should always be provided.  It costs 2 tokens to submit a question (to reduce spam) and questions are sent for Review before they are available in the main game.  After that you will earn 1 token and 2 rep for every upvote.  Thanks for contributing - new questions keep the game interesting for regular players, and evens the playing field for newer players!  Answers can be single or multiple choice.  Most players prefer single choice.  The User Input style is not available unless your rank is Sasensei (they should be used sparingly, as it is relatively unpopular to have to use your keyboard, plus these type of questions are easy to create badly).  Also the ability to create tags is restricted to players at Sasensei rank.  If you believe a new tag is necessary, do get in  touch .", 
+            "title": "Submit"
         }, 
         {
-            "location": "/mc-levels/#xxx_rank6_xxx", 
-            "text": "This rank enables MULTIPLAYER mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.", 
-            "title": "Assassin"
+            "location": "/mc-games/#submitted", 
+            "text": "This page lets you perform a full text search across of the questions you have submitted, and sort by number of votes, pass rate, etc.  You can also edit your questions (if you do, they will go back into review before the new version is released).", 
+            "title": "Submitted"
         }, 
         {
-            "location": "/mc-levels/#xxx_rank7_xxx", 
-            "text": "This position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
-            "title": "Sasensei"
+            "location": "/mc-games/#quizzes", 
+            "text": "It is possible to partake in public quizzes, multiplayer quiz games, and also to create private tests for students.", 
+            "title": "Quizzes"
         }, 
         {
             "location": "/mc-privacy/", 
