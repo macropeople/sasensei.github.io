@@ -207,7 +207,7 @@
         }, 
         {
             "location": "/mc-faq/", 
-            "text": "Sasensei - Frequently Asked Questions\n\n\nWhy do I need tokens?\n\n\nTokens are necessary for reputation.  If questions could be answered ad infinitum, then anyone could generate a high score - through chance alone.\n\n\nIf you run out of tokens, balances are reset within 4 hours. If you can't wait that long, you can purchase (with Bitcoin).  Tokens can be spent on the following items:\n\n\n\n\nStarting a new \"Run\" of questions\n\n\nSubmitting a question (costs 2 tokens but you earn tokens with every upvote)\n\n\nPlaying a quiz (you get them back if you pass)\n\n\nMultiplayer\n\n\nCreating a public quiz (2 tokens per attempt)\n\n\nUnlocking levels", 
+            "text": "Sasensei - Frequently Asked Questions\n\n\nWhy do I need tokens?\n\n\nTokens are necessary for reputation.  If questions could be answered ad infinitum, then anyone could generate a high score - through chance alone.\n\n\nIf you run out of tokens, balances are reset within 4 hours. If you can't wait that long, you can \npurchase\n (with Bitcoin).  Tokens can be spent on the following items:\n\n\n\n\nStarting a new \"Run\" of questions\n\n\nSubmitting a question (costs 2 tokens but you earn tokens with every upvote)\n\n\nPlaying a quiz (you get them back if you pass)\n\n\nMultiplayer\n\n\nCreating a public quiz (2 tokens per attempt)\n\n\nUnlocking levels", 
             "title": "FAQ"
         }, 
         {
@@ -217,7 +217,7 @@
         }, 
         {
             "location": "/mc-faq/#why-do-i-need-tokens", 
-            "text": "Tokens are necessary for reputation.  If questions could be answered ad infinitum, then anyone could generate a high score - through chance alone.  If you run out of tokens, balances are reset within 4 hours. If you can't wait that long, you can purchase (with Bitcoin).  Tokens can be spent on the following items:   Starting a new \"Run\" of questions  Submitting a question (costs 2 tokens but you earn tokens with every upvote)  Playing a quiz (you get them back if you pass)  Multiplayer  Creating a public quiz (2 tokens per attempt)  Unlocking levels", 
+            "text": "Tokens are necessary for reputation.  If questions could be answered ad infinitum, then anyone could generate a high score - through chance alone.  If you run out of tokens, balances are reset within 4 hours. If you can't wait that long, you can  purchase  (with Bitcoin).  Tokens can be spent on the following items:   Starting a new \"Run\" of questions  Submitting a question (costs 2 tokens but you earn tokens with every upvote)  Playing a quiz (you get them back if you pass)  Multiplayer  Creating a public quiz (2 tokens per attempt)  Unlocking levels", 
             "title": "Why do I need tokens?"
         }, 
         {
