@@ -26,23 +26,18 @@
             "title": "Online resources"
         }, 
         {
-            "location": "/mc-overview/", 
-            "text": "sasensei.com - Overview\n\n\nSignup\n\n\nPlayers can signup with email or social media.  Social media is preferred as it provides you with a smoother and safer login experience.\nWe take the minimum possible amount of data from the social media account - just name and email address.  We will never post on your behalf, and we have no interest in scraping your network - we hope you'll recommend us to them instead!\nWhen signing up, after email is verified, you are presented with a statement of how we use your data.  You are able to delete your account at that point, else you can always delete later if needed.  We need to tell you this under GDPR rules.\n\n\nFinally you are asked to select the country you wish to represent.  This lets you see your overall rank within that country under the Leaderboard (don't worry - this is not public - unless you make it to the top 10!)", 
-            "title": "Overview"
-        }, 
-        {
-            "location": "/mc-overview/#xxx_site_name_xxx-overview", 
-            "text": "", 
-            "title": "sasensei.com - Overview"
-        }, 
-        {
-            "location": "/mc-overview/#signup", 
-            "text": "Players can signup with email or social media.  Social media is preferred as it provides you with a smoother and safer login experience.\nWe take the minimum possible amount of data from the social media account - just name and email address.  We will never post on your behalf, and we have no interest in scraping your network - we hope you'll recommend us to them instead!\nWhen signing up, after email is verified, you are presented with a statement of how we use your data.  You are able to delete your account at that point, else you can always delete later if needed.  We need to tell you this under GDPR rules.  Finally you are asked to select the country you wish to represent.  This lets you see your overall rank within that country under the Leaderboard (don't worry - this is not public - unless you make it to the top 10!)", 
+            "location": "/mc-signup/", 
+            "text": "Sasensei - Signup\n\n\nPlayers can signup with email or social media.  Social media is preferred as it provides you with a smoother and safer login experience.\nWe take the minimum possible amount of data from the social media account - just name and email address.  We will never post on your behalf, and we have no interest in scraping your network - we hope you'll recommend us to them instead!\nWhen signing up, after email is verified, you are presented with a statement of how we use your data.  You are able to delete your account at that point, else you can always delete later if needed.  We need to tell you this under GDPR rules.\n\n\nFinally you are asked to select the country you wish to represent.  This lets you see your overall rank within that country under the Leaderboard (don't worry - this is not public - unless you make it to the top 10!)", 
             "title": "Signup"
         }, 
         {
+            "location": "/mc-signup/#xxx_short_name_xxx-signup", 
+            "text": "Players can signup with email or social media.  Social media is preferred as it provides you with a smoother and safer login experience.\nWe take the minimum possible amount of data from the social media account - just name and email address.  We will never post on your behalf, and we have no interest in scraping your network - we hope you'll recommend us to them instead!\nWhen signing up, after email is verified, you are presented with a statement of how we use your data.  You are able to delete your account at that point, else you can always delete later if needed.  We need to tell you this under GDPR rules.  Finally you are asked to select the country you wish to represent.  This lets you see your overall rank within that country under the Leaderboard (don't worry - this is not public - unless you make it to the top 10!)", 
+            "title": "Sasensei - Signup"
+        }, 
+        {
             "location": "/mc-levels/", 
-            "text": "sasensei.com - Levels\n\n\nWhite Belt\n\n\nNew players have access to Run Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions you took.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables MULTIPLAYER mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
+            "text": "sasensei.com - Levels\n\n\nWhite Belt\n\n\nNew players have access to Run Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions taken.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables MULTIPLAYER mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
             "title": "Levels"
         }, 
         {
@@ -57,7 +52,7 @@
         }, 
         {
             "location": "/mc-levels/#xxx_rank2_xxx", 
-            "text": "Auto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions you took.", 
+            "text": "Auto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions taken.", 
             "title": "Yellow Belt"
         }, 
         {
@@ -209,6 +204,21 @@
             "location": "/mc-quizzes/#custom", 
             "text": "This feature, unlocked at rank Sasensei, lets you build a quiz for your students to enjoy.  You can choose from all questions that have at least 4 upvotes.  It will cost 2 tokens for every student you wish to take the test.  You are able to review their scores, and see the overall leaderboard results.", 
             "title": "Custom"
+        }, 
+        {
+            "location": "/mc-faq/", 
+            "text": "Sasensei - Frequently Asked Questions\n\n\nWhy do I need tokens?\n\n\nTokens are necessary for reputation.  If questions could be answered ad infinitum, then anyone could generate a high score - through chance alone.\n\n\nIf you run out of tokens, balances are reset within 4 hours. If you can't wait that long, you can purchase (with Bitcoin).  Tokens can be spent on the following items:\n\n\n\n\nStarting a new \"Run\" of questions\n\n\nSubmitting a question (costs 2 tokens but you earn tokens with every upvote)\n\n\nPlaying a quiz (you get them back if you pass)\n\n\nMultiplayer\n\n\nCreating a public quiz (2 tokens per attempt)\n\n\nUnlocking levels", 
+            "title": "FAQ"
+        }, 
+        {
+            "location": "/mc-faq/#xxx_short_name_xxx-frequently-asked-questions", 
+            "text": "", 
+            "title": "Sasensei - Frequently Asked Questions"
+        }, 
+        {
+            "location": "/mc-faq/#why-do-i-need-tokens", 
+            "text": "Tokens are necessary for reputation.  If questions could be answered ad infinitum, then anyone could generate a high score - through chance alone.  If you run out of tokens, balances are reset within 4 hours. If you can't wait that long, you can purchase (with Bitcoin).  Tokens can be spent on the following items:   Starting a new \"Run\" of questions  Submitting a question (costs 2 tokens but you earn tokens with every upvote)  Playing a quiz (you get them back if you pass)  Multiplayer  Creating a public quiz (2 tokens per attempt)  Unlocking levels", 
+            "title": "Why do I need tokens?"
         }, 
         {
             "location": "/mc-privacy/", 
