@@ -82,7 +82,7 @@
         }, 
         {
             "location": "/mc-flashcards/", 
-            "text": "Sasensei - Flashcards\n\n\nFlashcards contain a variety of content, which can be filtered by Tag, Difficulty, or searching the Title and Body.  If you think a flashcard contains good (or bad) content, be sure to vote it up or down - and comment if you think it can be improved!\n\n\nRun\n\n\nRUN flashcards lets you browse content, perform full text search, play randomly or within a topic, and save flashcards for later browsing.  Flashcards are divided by difficulty (Beginner, Intermediate, Advanced).  This game can be played by anyone (even without an account)\n\n\nSaved\n\n\nThis is a repository of flashcards saved for future review.\n\n\nSubmit\n\n\nSubmit new flashcards here for others to enjoy.  This costs 2 tokens, but lets you earn tokens (and reputation) every time your flashcard is upvoted.  Good content is well written, interesting, relevant (eg to the tags you have chosen) and suitable for all ages!\n\n\nSubmitted\n\n\nKeep track of the flashcards you have submitted\n\n\nReview\n\n\nEnsure the quality of flashcards by reviewing the content submitted by others\n\n\nReviewed\n\n\nCheck out the last 12 flashcards reviewed.", 
+            "text": "Sasensei - Flashcards\n\n\nFlashcards contain a variety of content, which can be filtered by Tag, Difficulty, or searching the Title and Body.  If you think a flashcard contains good (or bad) content, be sure to vote it up or down - and comment if you think it can be improved!\n\n\nRun\n\n\nRUN flashcards lets you browse content, perform full text search, play randomly or within a topic, and save flashcards for later browsing.  Flashcards are divided by difficulty (Beginner, Intermediate, Advanced).  This game can be played by anyone (even without an account)\n\n\nSaved\n\n\nThis is a repository of flashcards saved for future review.\n\n\nSubmit\n\n\nSubmit new flashcards here for others to enjoy.  This costs 2 tokens, but lets you earn tokens (and reputation) every time your flashcard is upvoted.  Good content is well written, interesting, relevant (eg to the tags you have chosen) and suitable for all ages!\n\n\nSubmitted\n\n\nKeep track of the flashcards you have submitted\n\n\nReview\n\n\nThose who have achieved the rank of Black Belt can review the flaschards submitted (or edited, or downvoted) by others.  This is a chance to help ensure that content submitted on Sasensei is of an appropriate standard! The impact of a review depends on why the question was in review, as follows:\n\n\nNew Flaschards\n\n\nNew flaschards are not released to the question bank until they receive 3 accepts.  If they receive 3 rejections, the question is marked as deleted.  After 3 accepts / rejects, the new flashcard is also removed from REVIEW.\n\n\nEdited Flashcards\n\n\nIf a flashcard is edited, the edited version is put to review, and is not made available in RUN until it receives 3 accepts. The original flashcard remains available in RUN.  If the edit is rejected, it is removed from REVIEW, and the original flashcard is unaffected.  If the edit is accepted, the original flashcard is replaced with the edited version.\n\n\nDownvoted Flashcards\n\n\nA downvote will force a review on the following basis:\n\n\n\n\nCard has \n 10 upvotes - any downvote triggers a review\n\n\nCard has 10 \n 20 upvotes - downvoter must be Black Belt or above to trigger review\n\n\nCard has 20 \n 30 upvotes - downvoter must be Sasamurai or above to trigger review\n\n\nCard has \n30 upvotes - downvoter must be Assassin or above to trigger review\n\n\n\n\nReviewed\n\n\nCheck out the last 12 flashcards reviewed.", 
             "title": "Flashcards"
         }, 
         {
@@ -112,8 +112,23 @@
         }, 
         {
             "location": "/mc-flashcards/#review", 
-            "text": "Ensure the quality of flashcards by reviewing the content submitted by others", 
+            "text": "Those who have achieved the rank of Black Belt can review the flaschards submitted (or edited, or downvoted) by others.  This is a chance to help ensure that content submitted on Sasensei is of an appropriate standard! The impact of a review depends on why the question was in review, as follows:", 
             "title": "Review"
+        }, 
+        {
+            "location": "/mc-flashcards/#new-flaschards", 
+            "text": "New flaschards are not released to the question bank until they receive 3 accepts.  If they receive 3 rejections, the question is marked as deleted.  After 3 accepts / rejects, the new flashcard is also removed from REVIEW.", 
+            "title": "New Flaschards"
+        }, 
+        {
+            "location": "/mc-flashcards/#edited-flashcards", 
+            "text": "If a flashcard is edited, the edited version is put to review, and is not made available in RUN until it receives 3 accepts. The original flashcard remains available in RUN.  If the edit is rejected, it is removed from REVIEW, and the original flashcard is unaffected.  If the edit is accepted, the original flashcard is replaced with the edited version.", 
+            "title": "Edited Flashcards"
+        }, 
+        {
+            "location": "/mc-flashcards/#downvoted-flashcards", 
+            "text": "A downvote will force a review on the following basis:   Card has   10 upvotes - any downvote triggers a review  Card has 10   20 upvotes - downvoter must be Black Belt or above to trigger review  Card has 20   30 upvotes - downvoter must be Sasamurai or above to trigger review  Card has  30 upvotes - downvoter must be Assassin or above to trigger review", 
+            "title": "Downvoted Flashcards"
         }, 
         {
             "location": "/mc-flashcards/#reviewed", 
