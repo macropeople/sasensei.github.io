@@ -11,12 +11,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mc-levels/</loc>
+     <loc>/levels/</loc>
      <lastmod>2018-12-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mc-flashcards/</loc>
+     <loc>/flashcards/</loc>
      <lastmod>2018-12-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -31,7 +31,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mc-faq/</loc>
+     <loc>/faq/</loc>
      <lastmod>2018-12-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
