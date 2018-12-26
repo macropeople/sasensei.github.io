@@ -6,7 +6,7 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mc-signup/</loc>
+     <loc>/signup/</loc>
      <lastmod>2018-12-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -21,12 +21,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mc-questions/</loc>
+     <loc>/questions/</loc>
      <lastmod>2018-12-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mc-quizzes/</loc>
+     <loc>/quizzes/</loc>
      <lastmod>2018-12-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -36,12 +36,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mc-privacy/</loc>
+     <loc>/privacy/</loc>
      <lastmod>2018-12-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/mc-terms/</loc>
+     <loc>/terms/</loc>
      <lastmod>2018-12-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
