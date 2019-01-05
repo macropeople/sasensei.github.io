@@ -324,6 +324,19 @@
     Public
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how_are_public_quizzes_created" title="How are public quizzes created?" class="md-nav__link">
+    How are public quizzes created?
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -424,6 +437,19 @@
     Public
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how_are_public_quizzes_created" title="How are public quizzes created?" class="md-nav__link">
+    How are public quizzes created?
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -462,7 +488,15 @@
 <h2 id="taken">Taken<a class="headerlink" href="#taken" title="Permanent link">&para;</a></h2>
 <p>This section lets you review all the Quizzes you have taken, from any of the games - it's a chance to review your scores, and compare your position against other players.</p>
 <h2 id="public">Public<a class="headerlink" href="#public" title="Permanent link">&para;</a></h2>
-<p>A public quiz costs 8 tokens to play.  Choose a single topic, and if you pass (75% or more) you get 12 tokens back, plus 20 rep.  If you get 100%, you get 30 rep.  A count of passed sessions (by topic) is displayed on your public profile.  Questions are split by pass rate - 4 at &gt;75%, 4 at &gt;60%, and 4 from any difficuly level.</p>
+<p>A public quiz contains 12 questions and costs 8 tokens to play.  Choose a single topic, and if you pass (75% or more) you get 12 tokens back, plus 20 rep.  If you get 100%, you get 30 rep.  A count of passed sessions (by topic) is displayed on your public profile.  </p>
+<h3 id="how_are_public_quizzes_created">How are public quizzes created?<a class="headerlink" href="#how_are_public_quizzes_created" title="Permanent link">&para;</a></h3>
+<p>A job runs at 4am to perform the following logic:</p>
+<ul>
+<li>Filter for Approved, non-deleted questions with &gt; 3 votes</li>
+<li>If there are enough new questions in the pool, create a new quiz for that tag</li>
+<li>Questions are split by pass rate - 6 at &gt;= 70%, and 6 below 70%.</li>
+</ul>
+<p>There must be a minimum of 36 questions before the first quiz is created.  At 48 questions the second quiz is created, at 60 the third - etc etc.</p>
 <h2 id="multiplayer">Multiplayer<a class="headerlink" href="#multiplayer" title="Permanent link">&para;</a></h2>
 <p>Available to Assassin and above (unless unlocked with tokens), multiplayer lets you create an interactive challenge!  Any new players signed up with the multiplayer link are considered referrals, meaning they get a 4 token bonus, and so do you (once they reach yellow belt).  Once in a ready room, you can use the instant chat to communicate.  When ready, click the 'get started' button to begin play.  The winner is the one with the most correct answers, if it's a tie then it's the player with the fastest finish time.  Everyone pays 2 tokens to play, the winner recieves 50% of the pot, and the runner up gets 25%.  The organiser also gets to choose which tags are used to filter the questions.</p>
 <h2 id="custom">Custom<a class="headerlink" href="#custom" title="Permanent link">&para;</a></h2>
