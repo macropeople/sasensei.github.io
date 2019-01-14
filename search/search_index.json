@@ -256,6 +256,16 @@
             "title": "Custom"
         }, 
         {
+            "location": "/sponsors/", 
+            "text": "Sasensei - Sponsors\n\n\nWhilst Sasensei is a passion for us, the fact is it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features, and to ensure that https://sasensei.com can remain free for everyone.  Forever.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/sponsors/#xxx_short_name_xxx_-_sponsors", 
+            "text": "Whilst Sasensei is a passion for us, the fact is it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features, and to ensure that https://sasensei.com can remain free for everyone.  Forever.", 
+            "title": "Sasensei - Sponsors"
+        }, 
+        {
             "location": "/adverts/", 
             "text": "Sasensei - Adverts\n\n\nA small box is provided within the title bar for sponsors - the content posted here must be directly relevant to Sasensei players.  \n\n\nAds can be served globally, or on a country by country basis.  Ads are refreshed every minute.  Two image sizes are available - the first is 240w x 180h, and the second (banner ad, displayed on high resolution) is 240w x 400h.\n\n\nIf you would like to use this space, please \ncontact us\n.  Terms and conditions will be as per below (note that we can provide free space for non-profits):", 
             "title": "Adverts"
