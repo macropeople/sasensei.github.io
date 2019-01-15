@@ -267,12 +267,12 @@
         }, 
         {
             "location": "/adverts/", 
-            "text": "Sasensei - Adverts\n\n\nA small box is provided within the title bar for sponsors - the content posted here must be directly relevant to Sasensei players.  \n\n\nAds can be served globally, or on a country by country basis.  Ads are refreshed every minute.  Two image sizes are available - the first is 240w x 180h, and the second (banner ad, displayed on high resolution) is 240w x 400h.\n\n\nIf you would like to use this space, please \ncontact us\n.", 
+            "text": "Sasensei - Adverts\n\n\nA small box is provided within the title bar for sponsors - the content posted here must be directly relevant to Sasensei players.  \n\n\nAds can be served globally, or on a country by country basis.  Ads are refreshed every minute.  Two image sizes are available - the first is 240w x 180h, and the second (banner ad, displayed on high resolution) is 240w x 400h.\n\n\nTo ensure your advert looks good in the event of CSS changes, be sure to provide a filled background (else you will get Sasensei colours in your image).\n\n\nIf you would like to use this space, please \ncontact us\n.", 
             "title": "Adverts"
         }, 
         {
             "location": "/adverts/#xxx_short_name_xxx_-_adverts", 
-            "text": "A small box is provided within the title bar for sponsors - the content posted here must be directly relevant to Sasensei players.    Ads can be served globally, or on a country by country basis.  Ads are refreshed every minute.  Two image sizes are available - the first is 240w x 180h, and the second (banner ad, displayed on high resolution) is 240w x 400h.  If you would like to use this space, please  contact us .", 
+            "text": "A small box is provided within the title bar for sponsors - the content posted here must be directly relevant to Sasensei players.    Ads can be served globally, or on a country by country basis.  Ads are refreshed every minute.  Two image sizes are available - the first is 240w x 180h, and the second (banner ad, displayed on high resolution) is 240w x 400h.  To ensure your advert looks good in the event of CSS changes, be sure to provide a filled background (else you will get Sasensei colours in your image).  If you would like to use this space, please  contact us .", 
             "title": "Sasensei - Adverts"
         }, 
         {
