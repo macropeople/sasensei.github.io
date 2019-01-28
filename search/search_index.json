@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/levels/", 
-            "text": "Sasensei - Levels\n\n\nWhite Belt\n\n\nNew players have access to Run Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions taken.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables \nMULTIPLAYER\n mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
+            "text": "Sasensei - Levels\n\n\nWhite Belt\n\n\nNew players have access to RUN Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions taken.\n\n\nWhen you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice! \n\n\nThe \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables \nMULTIPLAYER\n mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
             "title": "Levels"
         }, 
         {
@@ -47,12 +47,12 @@
         }, 
         {
             "location": "/levels/#White Belt", 
-            "text": "New players have access to Run Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!", 
+            "text": "New players have access to RUN Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!", 
             "title": "White Belt"
         }, 
         {
             "location": "/levels/#Yellow Belt", 
-            "text": "Auto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions taken.", 
+            "text": "Auto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions taken.  When you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice!   The \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.", 
             "title": "Yellow Belt"
         }, 
         {
@@ -257,13 +257,48 @@
         }, 
         {
             "location": "/sponsors/", 
-            "text": "Sasensei - Sponsors\n\n\nWhilst Sasensei is indeed a passion project for us, the fact is - it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features, and to ensure that \nsasensei.com\n can remain free for everyone.  Forever.", 
+            "text": "Sasensei - Sponsors\n\n\nWhilst Sasensei is indeed a passion project for us, the fact is - it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features for our players, and to ensure that \nsasensei.com\n can remain free for everyone.  Forever.\n\n\nSupport Levels\n\n\nThree packages are available.  All sponsors are granted the right to use sasensei.com branding in their own materials, for the duration of the sponsorship term.  If you are interested in any of these packages, don't hesitate to \ncontact us\n.\n\n\nGOLD Sponsor\n\n\nThe GOLD sponsor is the sasensei.com 'official' sponsor for one year, and gains a presence in all marketing materials and promotional events.  Additional benefits:\n - Prominent Branding on the Landing Page\n - Mentioned in all newsletters\n - 2 x Global Sidebox assets \n - 4 Country Specific Sidebox Assets\n\n\nGLOBAL Sponsor\n\n\nUp to 3 GLOBAL Sponsors will be granted the following (for one year):\n - Branding on the Landing page\n - 1 x Global Sidebox asset\n - 1 x Country Specific Sidebox asset\n\n\nBOX Sponsor\n\n\nUp to 15 BOX sponsors will be granted the following (for minimum, 3 months):\n - Listing on the landing page\n - 1 x Country Specific Sidebox asset\n\n\nBranding Details\n\n\nSidebox\n\n\nA small box is provided within the title bar for sponsors - note that the content posted here must be directly relevant to Sasensei players.  \n\n\nAds can be served globally, or on a country by country basis, depending on the country the user has chosen to 'represent'.  Ads are refreshed every minute.  Two image sizes are available - the first is 240w x 150h (mobile, smaller screens), and the second (banner ad, displayed on high resolution) is 240w x 400h.\n\n\nTo ensure your advert looks good in the event of CSS changes, be sure to provide a filled (not transparent) background.\n\n\nPricing\n\n\nFor contracts, and pricing, please \ncontact us\n.", 
             "title": "Overview"
         }, 
         {
             "location": "/sponsors/#xxx_short_name_xxx_-_sponsors", 
-            "text": "Whilst Sasensei is indeed a passion project for us, the fact is - it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features, and to ensure that  sasensei.com  can remain free for everyone.  Forever.", 
+            "text": "Whilst Sasensei is indeed a passion project for us, the fact is - it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features for our players, and to ensure that  sasensei.com  can remain free for everyone.  Forever.", 
             "title": "Sasensei - Sponsors"
+        }, 
+        {
+            "location": "/sponsors/#support_levels", 
+            "text": "Three packages are available.  All sponsors are granted the right to use sasensei.com branding in their own materials, for the duration of the sponsorship term.  If you are interested in any of these packages, don't hesitate to  contact us .", 
+            "title": "Support Levels"
+        }, 
+        {
+            "location": "/sponsors/#gold_sponsor", 
+            "text": "The GOLD sponsor is the sasensei.com 'official' sponsor for one year, and gains a presence in all marketing materials and promotional events.  Additional benefits:\n - Prominent Branding on the Landing Page\n - Mentioned in all newsletters\n - 2 x Global Sidebox assets \n - 4 Country Specific Sidebox Assets", 
+            "title": "GOLD Sponsor"
+        }, 
+        {
+            "location": "/sponsors/#global_sponsor", 
+            "text": "Up to 3 GLOBAL Sponsors will be granted the following (for one year):\n - Branding on the Landing page\n - 1 x Global Sidebox asset\n - 1 x Country Specific Sidebox asset", 
+            "title": "GLOBAL Sponsor"
+        }, 
+        {
+            "location": "/sponsors/#box_sponsor", 
+            "text": "Up to 15 BOX sponsors will be granted the following (for minimum, 3 months):\n - Listing on the landing page\n - 1 x Country Specific Sidebox asset", 
+            "title": "BOX Sponsor"
+        }, 
+        {
+            "location": "/sponsors/#branding_details", 
+            "text": "", 
+            "title": "Branding Details"
+        }, 
+        {
+            "location": "/sponsors/#sidebox", 
+            "text": "A small box is provided within the title bar for sponsors - note that the content posted here must be directly relevant to Sasensei players.    Ads can be served globally, or on a country by country basis, depending on the country the user has chosen to 'represent'.  Ads are refreshed every minute.  Two image sizes are available - the first is 240w x 150h (mobile, smaller screens), and the second (banner ad, displayed on high resolution) is 240w x 400h.  To ensure your advert looks good in the event of CSS changes, be sure to provide a filled (not transparent) background.", 
+            "title": "Sidebox"
+        }, 
+        {
+            "location": "/sponsors/#pricing", 
+            "text": "For contracts, and pricing, please  contact us .", 
+            "title": "Pricing"
         }, 
         {
             "location": "/adverts/", 
