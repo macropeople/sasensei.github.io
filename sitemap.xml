@@ -31,16 +31,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>/sponsors/</loc>
-     <lastmod>2019-01-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>/assessors/</loc>
-     <lastmod>2019-01-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>/faq/</loc>
      <lastmod>2019-01-29</lastmod>
      <changefreq>daily</changefreq>
@@ -52,6 +42,16 @@
     </url>
     <url>
      <loc>/terms/</loc>
+     <lastmod>2019-01-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/sponsors/</loc>
+     <lastmod>2019-01-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/assessors/</loc>
      <lastmod>2019-01-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
