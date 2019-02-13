@@ -222,7 +222,7 @@
         }, 
         {
             "location": "/quizzes/", 
-            "text": "Sasensei - Quizzes\n\n\nIt is possible to partake in public quizzes, multiplayer quiz games, and also to create private tests for students.  All quizzes have 12 questions.\n\n\nTaken\n\n\nThis section lets you review all the Quizzes you have taken, from any of the games - it's a chance to review your scores, and compare your position against other players.\n\n\nPublic\n\n\nA public quiz contains 12 questions and costs 8 tokens to play.  Choose a single topic, and if you pass (75% or more) you get 12 tokens back, plus 20 rep.  If you get 100%, you get 30 rep.  A count of passed sessions (by topic) is displayed on your public profile.  \n\n\nHow are public quizzes created?\n\n\nA job runs at 4am to perform the following logic:\n\n\n\n\nFilter for Approved, non-deleted questions with \n 3 votes\n\n\nIf there are enough new questions in the pool, create a new quiz for that tag\n\n\nQuestions are split by pass rate - 6 at \n= 70%, and 6 below 70%.\n\n\n\n\nThere must be a minimum of 36 questions before the first quiz is created.  At 48 questions the second quiz is created, at 60 the third - etc etc.\n\n\nMultiplayer\n\n\nAvailable to Assassin and above (unless unlocked with tokens), multiplayer lets you create an interactive challenge!  Any new players signed up with the multiplayer link are considered referrals, meaning they get a 4 token bonus, and so do you (once they reach yellow belt).  Once in a ready room, you can use the instant chat to communicate.  When ready, click the 'get started' button to begin play.  The winner is the one with the most correct answers, if it's a tie then it's the player with the fastest finish time.  Everyone pays 2 tokens to play, the winner recieves 50% of the pot, and the runner up gets 25%.  The organiser also gets to choose which tags are used to filter the questions.\n\n\nCustom\n\n\nThis feature, unlocked at rank Sasensei, lets you build a quiz for your students to enjoy.  You can choose from all questions that have at least 4 upvotes.  It will cost 2 tokens for every student you wish to take the test.  You are able to review their scores, and see the overall leaderboard results.  Any new players signed up as a result of a Custom Quiz are considered referrals, meaning they receive a 4 token bonus immediately (and the quiz creator receives 4 tokens once that player hits Yellow Belt).", 
+            "text": "Sasensei - Quizzes\n\n\nIt is possible to partake in public quizzes, multiplayer quiz games, and also to create private tests for students.  All quizzes have 12 questions.\n\n\nTaken\n\n\nThis section lets you review all the Quizzes you have taken, from any of the games - it's a chance to review your scores, and compare your position against other players.\n\n\nPublic\n\n\nA public quiz contains 12 questions and costs 8 tokens to play.  Choose a single topic, and if you pass (75% or more) you get 12 tokens back, plus 20 rep.  If you get 100%, you get 30 rep.  A count of passed sessions (by topic) is displayed on your public profile.  \n\n\nHow are public quizzes created?\n\n\nA job runs at 4am to perform the following logic:\n\n\n\n\nFilter for Approved, non-deleted questions with \n 3 votes\n\n\nIf there are enough new questions in the pool, create a new quiz for that tag\n\n\nQuestions are split by pass rate - 6 at \n= 70%, and 6 below 70%.\n\n\n\n\nThere must be a minimum of 36 questions before the first quiz is created.  At 48 questions the second quiz is created, at 60 the third - etc etc.\n\n\nMultiplayer\n\n\nAvailable to Assassin and above (unless unlocked with tokens), multiplayer lets you create an interactive challenge!  Any new players signed up with the multiplayer link are considered referrals, meaning they get a 4 token bonus, and so do you (once they reach Yellow Belt).  Once in a ready room, you can use the instant chat to communicate.  When ready, click the 'get started' button to begin play.  The winner is the one with the most correct answers, if it's a tie then it's the player with the fastest finish time.  Everyone pays 2 tokens to play, the winner recieves 50% of the pot, and the runner up gets 25%.  The organiser also gets to choose which tags are used to filter the questions.\n\n\nCustom\n\n\nThis feature, unlocked at rank Sasensei, lets you build a quiz for your students to enjoy.  You can choose from all questions that have at least 4 upvotes.  It will cost 2 tokens for every student you wish to take the test.  You are able to review their scores, and see the overall leaderboard results.  Any new players signed up as a result of a Custom Quiz are considered referrals, meaning they receive a 4 token bonus immediately (and the quiz creator receives 4 tokens once that player hits Yellow Belt).", 
             "title": "Quizzes"
         }, 
         {
@@ -247,13 +247,63 @@
         }, 
         {
             "location": "/quizzes/#multiplayer", 
-            "text": "Available to Assassin and above (unless unlocked with tokens), multiplayer lets you create an interactive challenge!  Any new players signed up with the multiplayer link are considered referrals, meaning they get a 4 token bonus, and so do you (once they reach yellow belt).  Once in a ready room, you can use the instant chat to communicate.  When ready, click the 'get started' button to begin play.  The winner is the one with the most correct answers, if it's a tie then it's the player with the fastest finish time.  Everyone pays 2 tokens to play, the winner recieves 50% of the pot, and the runner up gets 25%.  The organiser also gets to choose which tags are used to filter the questions.", 
+            "text": "Available to Assassin and above (unless unlocked with tokens), multiplayer lets you create an interactive challenge!  Any new players signed up with the multiplayer link are considered referrals, meaning they get a 4 token bonus, and so do you (once they reach Yellow Belt).  Once in a ready room, you can use the instant chat to communicate.  When ready, click the 'get started' button to begin play.  The winner is the one with the most correct answers, if it's a tie then it's the player with the fastest finish time.  Everyone pays 2 tokens to play, the winner recieves 50% of the pot, and the runner up gets 25%.  The organiser also gets to choose which tags are used to filter the questions.", 
             "title": "Multiplayer"
         }, 
         {
             "location": "/quizzes/#custom", 
             "text": "This feature, unlocked at rank Sasensei, lets you build a quiz for your students to enjoy.  You can choose from all questions that have at least 4 upvotes.  It will cost 2 tokens for every student you wish to take the test.  You are able to review their scores, and see the overall leaderboard results.  Any new players signed up as a result of a Custom Quiz are considered referrals, meaning they receive a 4 token bonus immediately (and the quiz creator receives 4 tokens once that player hits Yellow Belt).", 
             "title": "Custom"
+        }, 
+        {
+            "location": "/events/", 
+            "text": "Sasensei - Events\n\n\nOverview\n\n\nUsing Sasensei at an event is a great way to connect enthusiasts in the spirit of light-hearted competition.  Community features are eventually planned for sasensei.com, but in the meantime the options are:\n\n\nIndividual Challenge\n\n\nThe Multiplayer and Custom Quiz approaches both require players to click a link and signup to the game before they can play.  \n\n\nMultiplayer\n\n\nThis is a way to enable everyone to play a game at the same time, with a clear winner at the end.  Simply start the game, share the link, and start the game once enough people are logged in.  In the meantime, players can communicate with each other using the chat system.  \n\n\nPROS:\n\n\n a clear winner at the end\n\n chat system\n\n\nCONS:\n* need to wait for everyone to join the ready room\n\n\nRecommendation - do this when you have a captive audience, alternatively plan to start the game at a certain time (eg hourly intervals)\n\n\nCustom Quiz\n\n\nA Custom Quiz can be taken at the players leisure, which means that a quiz can be prepared in advance with questions on a specific topic, and the link shared accordingly.  \n\n\nPROS:\n\n Organiser can create a specific type of quiz\n\n Players can play in their own time\n\n\nCONS:\n\n Organiser cannot play (they made the quiz!)\n\n Cannot control whether and when players play \n\n\nTeam Challenges\n\n\nNo Screens\n\n\nA great approach here is to arrange a tournament - with one representative from each team.\n\n\nAt certain times, hold 'matches' between each team, and arrange playoffs for the winners!\n\n\nSingle Screen\n\n\nIf you have just one screen, an option can be to hold a public quiz (using an organiser account), divide players into teams, and get them to WRITE the answer - checking the answers at the end.\n\n\nMultiple Screens\n\n\nNow we have a few more options!  Divide teams across the screens, with one player dedicated to making the selection (note that a mouse is not necessary, it's also possible to use the numeric keypad and the enter key to submit answers).\n\n\nPossible game modes:\n\n\n\n\nRUN mode - see which team can achieve the biggest streak.  \n\n\nMultiplayer - highest score / first to finish\n\n\nPublic Quiz", 
+            "title": "Events"
+        }, 
+        {
+            "location": "/events/#xxx_short_name_xxx_-_events", 
+            "text": "", 
+            "title": "Sasensei - Events"
+        }, 
+        {
+            "location": "/events/#overview", 
+            "text": "Using Sasensei at an event is a great way to connect enthusiasts in the spirit of light-hearted competition.  Community features are eventually planned for sasensei.com, but in the meantime the options are:", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/events/#individual_challenge", 
+            "text": "The Multiplayer and Custom Quiz approaches both require players to click a link and signup to the game before they can play.", 
+            "title": "Individual Challenge"
+        }, 
+        {
+            "location": "/events/#multiplayer", 
+            "text": "This is a way to enable everyone to play a game at the same time, with a clear winner at the end.  Simply start the game, share the link, and start the game once enough people are logged in.  In the meantime, players can communicate with each other using the chat system.    PROS:   a clear winner at the end  chat system  CONS:\n* need to wait for everyone to join the ready room  Recommendation - do this when you have a captive audience, alternatively plan to start the game at a certain time (eg hourly intervals)", 
+            "title": "Multiplayer"
+        }, 
+        {
+            "location": "/events/#custom_quiz", 
+            "text": "A Custom Quiz can be taken at the players leisure, which means that a quiz can be prepared in advance with questions on a specific topic, and the link shared accordingly.    PROS:  Organiser can create a specific type of quiz  Players can play in their own time  CONS:  Organiser cannot play (they made the quiz!)  Cannot control whether and when players play", 
+            "title": "Custom Quiz"
+        }, 
+        {
+            "location": "/events/#team_challenges", 
+            "text": "", 
+            "title": "Team Challenges"
+        }, 
+        {
+            "location": "/events/#no_screens", 
+            "text": "A great approach here is to arrange a tournament - with one representative from each team.  At certain times, hold 'matches' between each team, and arrange playoffs for the winners!", 
+            "title": "No Screens"
+        }, 
+        {
+            "location": "/events/#single_screen", 
+            "text": "If you have just one screen, an option can be to hold a public quiz (using an organiser account), divide players into teams, and get them to WRITE the answer - checking the answers at the end.", 
+            "title": "Single Screen"
+        }, 
+        {
+            "location": "/events/#multiple_screens", 
+            "text": "Now we have a few more options!  Divide teams across the screens, with one player dedicated to making the selection (note that a mouse is not necessary, it's also possible to use the numeric keypad and the enter key to submit answers).  Possible game modes:   RUN mode - see which team can achieve the biggest streak.    Multiplayer - highest score / first to finish  Public Quiz", 
+            "title": "Multiple Screens"
         }, 
         {
             "location": "/faq/", 
