@@ -2,62 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/signup/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/levels/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/flashcards/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/questions/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/quizzes/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>/settings/</loc>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/events/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/faq/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/privacy/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/terms/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/sponsors/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>/assessors/</loc>
-     <lastmod>2019-03-08</lastmod>
+     <lastmod>2019-03-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
