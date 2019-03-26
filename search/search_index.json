@@ -256,6 +256,136 @@
             "title": "Custom"
         }, 
         {
+            "location": "/badges/", 
+            "text": "Sasensei - Badges\n\n\n\n\nNote\n\n\nComing Soon!!!\n\n\n\n\nBadges are divided into two categories - Explorer (for uncovering features of the site) and Achievement (those that take some effort to obtain)\n\n\nExplorer Badges\n\n\nThe following badges are only awarded once!\n\n\nVoter\n\n\nFirst vote.  Votes are essential to promote good content, and to weed out the bad!\n\n\nCommenter\n\n\nFirst comment, be that on a flashcard or question.  Constructive comments help to improve site content for everyone!\n\n\nFlashcard Submitter\n\n\nFirst flashcard submitted, and accepted.  Given that flashcards are free to play, submitted flashcards are a great opportunity to earn tokens and reputation!\n\n\nFlashcard Reviewer\n\n\nFirst card reviewed.  Flashcards are an educational tool for everyone (not just signed up players).  Lets make them great!\n\n\nStreaker\n\n\nFirst streak (3+ correct questions in a row in RUN mode).\n\n\nQuestion Submitter\n\n\nFirst question submitted, and accepted.\n\n\nQuestion Reviewer\n\n\nFirst question reviewed.  Questions cost tokens to play, so a high standard is expected and required!\n\n\nCertified\n\n\nFirst public quiz, passing 75% or more\n\n\nChallenger\n\n\nCreates first multiplayer quiz, with at least one other player who passes\n\n\nChallengee\n\n\nFinishes a multiplayer quiz where somebody else is the host (answers all questions)\n\n\nQuiz Master\n\n\nCreate first custom quiz with at least one player who passes\n\n\nQuiz Apprentice\n\n\nPlay first custom quiz\n\n\nAchievement Badges\n\n\nThese badges demonstrate true community involvement and technical prowess!\n\n\nGreat Flashcard\n\n\nFlashcard has 15+ upvotes (once per flashcard)\n\n\nGreat Question\n\n\nQuestion has 15+ upvotes (once per question)\n\n\nDifficult Question\n\n\nCreates a question with 10+ upvotes and \n20% pass rate\n\n\nEasy Question\n\n\nCreates a question with 10+ upvotes and \n80% pass rate\n\n\nReferrer\n\n\nRefer a signup who achieves yellow belt\n\n\nTop Student\n\n\nPass public quiz with a 100% pass rate\n\n\nSpeedy Gonzalez\n\n\nPass public quiz with a 100% pass rate in under 2 minutes\n\n\nRegular\n\n\nVisit the site every day for 7 days (resets on 7th day)\n\n\nResident\n\n\nVisit the site every day for 1 month (resets on final day)\n\n\nAnnualno\n\n\nMember for one year (anniversary of signup)", 
+            "title": "Badges"
+        }, 
+        {
+            "location": "/badges/#xxx_short_name_xxx_-_badges", 
+            "text": "Note  Coming Soon!!!   Badges are divided into two categories - Explorer (for uncovering features of the site) and Achievement (those that take some effort to obtain)", 
+            "title": "Sasensei - Badges"
+        }, 
+        {
+            "location": "/badges/#explorer_badges", 
+            "text": "The following badges are only awarded once!", 
+            "title": "Explorer Badges"
+        }, 
+        {
+            "location": "/badges/#voter", 
+            "text": "First vote.  Votes are essential to promote good content, and to weed out the bad!", 
+            "title": "Voter"
+        }, 
+        {
+            "location": "/badges/#commenter", 
+            "text": "First comment, be that on a flashcard or question.  Constructive comments help to improve site content for everyone!", 
+            "title": "Commenter"
+        }, 
+        {
+            "location": "/badges/#flashcard_submitter", 
+            "text": "First flashcard submitted, and accepted.  Given that flashcards are free to play, submitted flashcards are a great opportunity to earn tokens and reputation!", 
+            "title": "Flashcard Submitter"
+        }, 
+        {
+            "location": "/badges/#flashcard_reviewer", 
+            "text": "First card reviewed.  Flashcards are an educational tool for everyone (not just signed up players).  Lets make them great!", 
+            "title": "Flashcard Reviewer"
+        }, 
+        {
+            "location": "/badges/#streaker", 
+            "text": "First streak (3+ correct questions in a row in RUN mode).", 
+            "title": "Streaker"
+        }, 
+        {
+            "location": "/badges/#question_submitter", 
+            "text": "First question submitted, and accepted.", 
+            "title": "Question Submitter"
+        }, 
+        {
+            "location": "/badges/#question_reviewer", 
+            "text": "First question reviewed.  Questions cost tokens to play, so a high standard is expected and required!", 
+            "title": "Question Reviewer"
+        }, 
+        {
+            "location": "/badges/#certified", 
+            "text": "First public quiz, passing 75% or more", 
+            "title": "Certified"
+        }, 
+        {
+            "location": "/badges/#challenger", 
+            "text": "Creates first multiplayer quiz, with at least one other player who passes", 
+            "title": "Challenger"
+        }, 
+        {
+            "location": "/badges/#challengee", 
+            "text": "Finishes a multiplayer quiz where somebody else is the host (answers all questions)", 
+            "title": "Challengee"
+        }, 
+        {
+            "location": "/badges/#quiz_master", 
+            "text": "Create first custom quiz with at least one player who passes", 
+            "title": "Quiz Master"
+        }, 
+        {
+            "location": "/badges/#quiz_apprentice", 
+            "text": "Play first custom quiz", 
+            "title": "Quiz Apprentice"
+        }, 
+        {
+            "location": "/badges/#achievement_badges", 
+            "text": "These badges demonstrate true community involvement and technical prowess!", 
+            "title": "Achievement Badges"
+        }, 
+        {
+            "location": "/badges/#great_flashcard", 
+            "text": "Flashcard has 15+ upvotes (once per flashcard)", 
+            "title": "Great Flashcard"
+        }, 
+        {
+            "location": "/badges/#great_question", 
+            "text": "Question has 15+ upvotes (once per question)", 
+            "title": "Great Question"
+        }, 
+        {
+            "location": "/badges/#difficult_question", 
+            "text": "Creates a question with 10+ upvotes and  20% pass rate", 
+            "title": "Difficult Question"
+        }, 
+        {
+            "location": "/badges/#easy_question", 
+            "text": "Creates a question with 10+ upvotes and  80% pass rate", 
+            "title": "Easy Question"
+        }, 
+        {
+            "location": "/badges/#referrer", 
+            "text": "Refer a signup who achieves yellow belt", 
+            "title": "Referrer"
+        }, 
+        {
+            "location": "/badges/#top_student", 
+            "text": "Pass public quiz with a 100% pass rate", 
+            "title": "Top Student"
+        }, 
+        {
+            "location": "/badges/#speedy_gonzalez", 
+            "text": "Pass public quiz with a 100% pass rate in under 2 minutes", 
+            "title": "Speedy Gonzalez"
+        }, 
+        {
+            "location": "/badges/#regular", 
+            "text": "Visit the site every day for 7 days (resets on 7th day)", 
+            "title": "Regular"
+        }, 
+        {
+            "location": "/badges/#resident", 
+            "text": "Visit the site every day for 1 month (resets on final day)", 
+            "title": "Resident"
+        }, 
+        {
+            "location": "/badges/#annualno", 
+            "text": "Member for one year (anniversary of signup)", 
+            "title": "Annualno"
+        }, 
+        {
             "location": "/settings/", 
             "text": "Sasensei - Settings\n\n\nThe settings panel lets you change your:\n\n\n\n\nAvatar\n\n\nUsername\n\n\nPassword\n\n\nCountry\n\n\nBiography\n\n\n\n\nYou can also enable / disable emails for:\n\n\n\n\nTransactional emails - Tokens renewed, daily notifications, etc\n\n\nResult emails - update for results from quizzes etc", 
             "title": "Settings"
