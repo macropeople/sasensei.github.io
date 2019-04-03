@@ -387,48 +387,28 @@
         }, 
         {
             "location": "/sponsors/", 
-            "text": "Sasensei - Sponsors\n\n\nWhilst Sasensei is indeed a passion project for us, the fact is - it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features for our players, and to ensure that \nsasensei.com\n can remain free for everyone.  Forever.\n\n\nPackages\n\n\nThree packages are available.  All sponsors are granted the right to use Sasensei branding in their own materials, for the duration of the sponsorship term.  If you are interested in any of these packages, don't hesitate to \ncontact us\n.\n\n\nGOLD Sponsor\n\n\nThe GOLD sponsor is the Sasensei 'official' sponsor for one year, and gains a presence in all marketing materials and promotional events.  Additional benefits:\n\n\n\n\nProminent Branding on the Landing Page\n\n\nMentioned in all newsletters\n\n\n2 x Global Sidebox assets \n\n\nUnlimited Country Specific Sidebox Assets (1 per country)\n\n\n\n\nGLOBAL Sponsor\n\n\nUp to 3 GLOBAL Sponsors will be granted the following (for one year):\n\n\n\n\nBranding on the Landing page\n\n\n1 x Global Sidebox asset\n\n\nUp to 5 Country Specific Sidebox assets (1 per country)\n\n\n\n\nBOX Sponsor\n\n\nBOX sponsors will be granted the following (for minimum, 3 months):\n\n\n\n\nListing on the landing page\n\n\nUp to 5 Country Specific Sidebox assets (1 per country)\n\n\n\n\nBranding Details\n\n\nSidebox\n\n\nA small box is provided within the title bar for sponsors - note that the content posted here must be directly relevant to Sasensei players.  \n\n\nAds can be served globally, or on a country by country basis, depending on the country the user has chosen to 'represent'.  Ads are refreshed every minute.  Two image sizes are available - the first is 240w x 120h (mobile, smaller screens), and the second (banner ad, displayed on high resolution) is 240w x 400h.\n\n\nTo ensure your advert looks good in the event of CSS changes, be sure to provide a filled (not transparent) background.\n\n\nPricing\n\n\nFor contracts, and pricing, please \ncontact us\n.", 
+            "text": "Sasensei - Sponsors\n\n\nWhilst Sasensei is indeed a passion project for us, the fact is - it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features for our players, and to ensure that \nsasensei.com\n can remain free for everyone.  Forever.\n\n\nThere are two options for sponsorship:\n\n\nMain Sponsor\n\n\nMain sponsors receive:\n\n\n\n\nBranding on the landing page\n\n\nSpecial mention in relevant communications\n\n\nGlobal Sidebox + country specific sideboxes\n\n\n\n\nUp to 3 spaces are available at a cost of \u00a31,700 per year (or take all 3 for \u00a34,500).\n\n\nSidebox\n\n\nUp to 5 sidebar spaces are available globally - and a further 5 per country.  Ads are refreshed every minute. Two image sizes are available - the first is 240w x 120h (mobile, smaller screens), and the second (banner ad, displayed on high resolution) is 240w x 400h. To ensure your advert looks good in the event of CSS changes, be sure to provide a filled (not transparent) background.\n\n\nPricing is dependent on the number of players, as follows:\n\n\n\n\nSmall country (\n100 players):  \u00a35 per month\n\n\nBig country (\n100 players):  \u00a310 per month\n\n\nGlobal (all countries):  \u00a350 per month\n\n\n\n\nAll the above come with 2 months free on a one year plan.\n\n\nContracts\n\n\nFor contracts, or further details, please \ncontact us\n.", 
             "title": "Sponsors"
         }, 
         {
             "location": "/sponsors/#xxx_short_name_xxx_-_sponsors", 
-            "text": "Whilst Sasensei is indeed a passion project for us, the fact is - it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features for our players, and to ensure that  sasensei.com  can remain free for everyone.  Forever.", 
+            "text": "Whilst Sasensei is indeed a passion project for us, the fact is - it costs hard $$$ to run! So we are always on the lookout for sponsors to cover the running costs, to fund exciting new features for our players, and to ensure that  sasensei.com  can remain free for everyone.  Forever.  There are two options for sponsorship:", 
             "title": "Sasensei - Sponsors"
         }, 
         {
-            "location": "/sponsors/#packages", 
-            "text": "Three packages are available.  All sponsors are granted the right to use Sasensei branding in their own materials, for the duration of the sponsorship term.  If you are interested in any of these packages, don't hesitate to  contact us .", 
-            "title": "Packages"
-        }, 
-        {
-            "location": "/sponsors/#gold_sponsor", 
-            "text": "The GOLD sponsor is the Sasensei 'official' sponsor for one year, and gains a presence in all marketing materials and promotional events.  Additional benefits:   Prominent Branding on the Landing Page  Mentioned in all newsletters  2 x Global Sidebox assets   Unlimited Country Specific Sidebox Assets (1 per country)", 
-            "title": "GOLD Sponsor"
-        }, 
-        {
-            "location": "/sponsors/#global_sponsor", 
-            "text": "Up to 3 GLOBAL Sponsors will be granted the following (for one year):   Branding on the Landing page  1 x Global Sidebox asset  Up to 5 Country Specific Sidebox assets (1 per country)", 
-            "title": "GLOBAL Sponsor"
-        }, 
-        {
-            "location": "/sponsors/#box_sponsor", 
-            "text": "BOX sponsors will be granted the following (for minimum, 3 months):   Listing on the landing page  Up to 5 Country Specific Sidebox assets (1 per country)", 
-            "title": "BOX Sponsor"
-        }, 
-        {
-            "location": "/sponsors/#branding_details", 
-            "text": "", 
-            "title": "Branding Details"
+            "location": "/sponsors/#main_sponsor", 
+            "text": "Main sponsors receive:   Branding on the landing page  Special mention in relevant communications  Global Sidebox + country specific sideboxes   Up to 3 spaces are available at a cost of \u00a31,700 per year (or take all 3 for \u00a34,500).", 
+            "title": "Main Sponsor"
         }, 
         {
             "location": "/sponsors/#sidebox", 
-            "text": "A small box is provided within the title bar for sponsors - note that the content posted here must be directly relevant to Sasensei players.    Ads can be served globally, or on a country by country basis, depending on the country the user has chosen to 'represent'.  Ads are refreshed every minute.  Two image sizes are available - the first is 240w x 120h (mobile, smaller screens), and the second (banner ad, displayed on high resolution) is 240w x 400h.  To ensure your advert looks good in the event of CSS changes, be sure to provide a filled (not transparent) background.", 
+            "text": "Up to 5 sidebar spaces are available globally - and a further 5 per country.  Ads are refreshed every minute. Two image sizes are available - the first is 240w x 120h (mobile, smaller screens), and the second (banner ad, displayed on high resolution) is 240w x 400h. To ensure your advert looks good in the event of CSS changes, be sure to provide a filled (not transparent) background.  Pricing is dependent on the number of players, as follows:   Small country ( 100 players):  \u00a35 per month  Big country ( 100 players):  \u00a310 per month  Global (all countries):  \u00a350 per month   All the above come with 2 months free on a one year plan.", 
             "title": "Sidebox"
         }, 
         {
-            "location": "/sponsors/#pricing", 
-            "text": "For contracts, and pricing, please  contact us .", 
-            "title": "Pricing"
+            "location": "/sponsors/#contracts", 
+            "text": "For contracts, or further details, please  contact us .", 
+            "title": "Contracts"
         }, 
         {
             "location": "/assessors/", 
