@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/levels/", 
-            "text": "Sasensei - Levels\n\n\nWhite Belt\n\n\nNew players have access to RUN Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions taken.\n\n\nWhen you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice! \n\n\nThe \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables \nMULTIPLAYER\n mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
+            "text": "Sasensei - Levels\n\n\nWhite Belt\n\n\nNew players have access to RUN Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation (or instantly with a streak of 10), this level enables Comments and the ability to view the last 12 questions taken.\n\n\nWhen you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice!\n\n\nThe \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation (or instantly with a streak of 20), this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables \nMULTIPLAYER\n mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
             "title": "Levels"
         }, 
         {
@@ -52,12 +52,12 @@
         }, 
         {
             "location": "/levels/#Yellow Belt", 
-            "text": "Auto-unlocked at 50 reputation, this level enables Comments and the ability to view the last 12 questions taken.  When you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice!   The \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.", 
+            "text": "Auto-unlocked at 50 reputation (or instantly with a streak of 10), this level enables Comments and the ability to view the last 12 questions taken.  When you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice!  The \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.", 
             "title": "Yellow Belt"
         }, 
         {
             "location": "/levels/#Green Belt", 
-            "text": "Auto-unlocked at 100 reputation, this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!", 
+            "text": "Auto-unlocked at 100 reputation (or instantly with a streak of 20), this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!", 
             "title": "Green Belt"
         }, 
         {
@@ -277,12 +277,12 @@
         }, 
         {
             "location": "/settings/", 
-            "text": "Sasensei - Settings\n\n\nThe settings panel lets you change your:\n\n\n\n\nAvatar\n\n\nUsername\n\n\nPassword\n\n\nCountry\n\n\nBiography\n\n\n\n\nYou can also enable / disable emails for:\n\n\n\n\nTransactional emails - Tokens renewed, daily notifications, etc\n\n\nResult emails - update for results from quizzes etc", 
+            "text": "Sasensei - Settings\n\n\nThe settings panel lets you change your:\n\n\n\n\nAvatar\n\n\nUsername (used on public profile and transactional mails)\n\n\nName (used in certificate and promotional mails)\n\n\nPassword\n\n\nCountry\n\n\nBiography\n\n\n\n\nYou can also enable / disable emails for:\n\n\n\n\nTransactional emails - Tokens renewed, daily notifications, etc\n\n\nResult emails - update for results from quizzes etc", 
             "title": "Settings"
         }, 
         {
             "location": "/settings/#xxx_short_name_xxx_-_settings", 
-            "text": "The settings panel lets you change your:   Avatar  Username  Password  Country  Biography   You can also enable / disable emails for:   Transactional emails - Tokens renewed, daily notifications, etc  Result emails - update for results from quizzes etc", 
+            "text": "The settings panel lets you change your:   Avatar  Username (used on public profile and transactional mails)  Name (used in certificate and promotional mails)  Password  Country  Biography   You can also enable / disable emails for:   Transactional emails - Tokens renewed, daily notifications, etc  Result emails - update for results from quizzes etc", 
             "title": "Sasensei - Settings"
         }, 
         {
