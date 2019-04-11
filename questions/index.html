@@ -341,6 +341,40 @@
     Answer Types
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#single_choice" title="Single Choice" class="md-nav__link">
+    Single Choice
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#true_false" title="True / False" class="md-nav__link">
+    True / False
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#multiple_choice" title="Multiple Choice" class="md-nav__link">
+    Multiple Choice
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#user_input" title="User Input" class="md-nav__link">
+    User Input
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -626,6 +660,40 @@
     Answer Types
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#single_choice" title="Single Choice" class="md-nav__link">
+    Single Choice
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#true_false" title="True / False" class="md-nav__link">
+    True / False
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#multiple_choice" title="Multiple Choice" class="md-nav__link">
+    Multiple Choice
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#user_input" title="User Input" class="md-nav__link">
+    User Input
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -739,8 +807,15 @@
 <p>If you are submitting code, remember to use the code formatting options - either by highlighting the text and using the code icon (<code>&lt;&gt;</code>), by indenting with 4 spaces (<code></code>), or by surrounding in backticks ("```").  The markdown capabilities are documented <a href="https://simplemde.com/markdown-guide">here</a> (we use <a href="https://simplemde.com">simplemde</a>).</p>
 <p>In addition, be sure that each line of code is no more than <strong>32 characters</strong> long.  Yes, this is short, however - many players are accessing on mobile, and this reduces the need to scroll left / right in addition to up / down.</p>
 <h3 id="answer_types">Answer Types<a class="headerlink" href="#answer_types" title="Permanent link">&para;</a></h3>
-<p>Answers can be single or multiple choice.  Most players prefer single choice.  For TRUE / FALSE or YES/NO type questions simply remove one of the default options (minimum number of answers is two, max is six).</p>
-<p>Answers are always served in a random order - so avoid statements like "all of the above".</p>
+<p>Multiple answer types are supported, including:</p>
+<h4 id="single_choice">Single Choice<a class="headerlink" href="#single_choice" title="Permanent link">&para;</a></h4>
+<p>This is the default option, and means that there is ONE RIGHT ANSWER.  Up to 5 more incorrect answers can be provided.  Most players prefer single choice!</p>
+<p>Note that answers are always served in a random order - so avoid statements like "all of the above".</p>
+<h4 id="true_false">True / False<a class="headerlink" href="#true_false" title="Permanent link">&para;</a></h4>
+<p>When writing True / False type questions, be sure that the question is consistent with such an answer!  eg:  "True / False - the earth is flat?".  The answers can also be changed to Yes / No / whatever.</p>
+<h4 id="multiple_choice">Multiple Choice<a class="headerlink" href="#multiple_choice" title="Permanent link">&para;</a></h4>
+<p>For multiple choice type questions, there should be TWO OR MORE RIGHT ANSWERS.  It's also possible to make every answer a correct answer.  If the player fails to mark all the correct answers, they fail the question (there are no "half marks").</p>
+<h4 id="user_input">User Input<a class="headerlink" href="#user_input" title="Permanent link">&para;</a></h4>
 <p>The User Input style is not available unless your rank is Sasensei.  User Input should be used very sparingly, as it is  unpopular to force users to use the keyboard, also it's easy to accidentally write an ambiguous question this way.  If User Input IS used, be sure to provide all possible answers (up to 6 combinations). Be aware that the backend will automatically uppercase the string, so it's not necessary to permutate by case (cat = CAT).</p>
 <h3 id="explanation">Explanation<a class="headerlink" href="#explanation" title="Permanent link">&para;</a></h3>
 <p>This is the most important part!  Whether the player was right or wrong, if they can learn something, the question is a success.  Images are welcomed here, and links to official documentation or further resources should <strong>always</strong> be provided.</p>
