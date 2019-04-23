@@ -439,6 +439,16 @@
             "location": "/assessors/#xxx_short_name_xxx_-_assessors", 
             "text": "Do you have some need to test the skills of an individual or group?  Either formally, or as part of a fun event?  We have a large question bank, full of peer reviewed,  original  content, and we'd be happy to discuss your requirements.  Please  contact us  with details of what you have in mind.", 
             "title": "Sasensei - Assessors"
+        }, 
+        {
+            "location": "/affiliates/", 
+            "text": "Sasensei - Affiliates\n\n\nWe provide an affiliate scheme to selected partners / players, which provides an additional bonus of 10% of token sales to any referrals you sign up.\n\n\nSimply share your referral link, and you receive 10% of any tokens they purchase, for life.\n\n\nPayouts are made on balances of \u00a320 and above, and you can see a history of all referrals / transactions in the settings panel.\n\n\nIf you believe you can help us to grow the site with an appropriate user base, then \ncontact us\n with details of your marketing plan.  If accepted, we will enable your user account, and the affiliates screen will be visible.", 
+            "title": "Affiliates"
+        }, 
+        {
+            "location": "/affiliates/#xxx_short_name_xxx_-_affiliates", 
+            "text": "We provide an affiliate scheme to selected partners / players, which provides an additional bonus of 10% of token sales to any referrals you sign up.  Simply share your referral link, and you receive 10% of any tokens they purchase, for life.  Payouts are made on balances of \u00a320 and above, and you can see a history of all referrals / transactions in the settings panel.  If you believe you can help us to grow the site with an appropriate user base, then  contact us  with details of your marketing plan.  If accepted, we will enable your user account, and the affiliates screen will be visible.", 
+            "title": "Sasensei - Affiliates"
         }
     ]
 }
