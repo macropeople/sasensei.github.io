@@ -276,6 +276,21 @@
             "title": "Custom"
         }, 
         {
+            "location": "/settings/", 
+            "text": "Sasensei - Settings\n\n\nThe settings panel lets you change your:\n\n\n\n\nAvatar\n\n\nUsername (used on public profile and transactional mails)\n\n\nName (used in certificate and promotional mails)\n\n\nPassword\n\n\nCountry\n\n\nBiography\n\n\n\n\nYou can also enable / disable emails for:\n\n\n\n\nTransactional emails - Tokens renewed, daily notifications, etc\n\n\nResult emails - update for results from quizzes etc\n\n\n\n\nMerge Accounts\n\n\nThe merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:\n\n\n1) New reputation will be the max of old and new reputation\n\n\n2) New tokens balance is more complicated to prevent abuse.  The rules are:\n\n\n\n\nif merging account has \n= 8 tokens, then don't add any tokens\n\n\nif merging account has \n 20 tokens, then add (merging account tokens - 8)\n\n\notherwise, sum tokens from both accounts", 
+            "title": "Settings"
+        }, 
+        {
+            "location": "/settings/#xxx_short_name_xxx_-_settings", 
+            "text": "The settings panel lets you change your:   Avatar  Username (used on public profile and transactional mails)  Name (used in certificate and promotional mails)  Password  Country  Biography   You can also enable / disable emails for:   Transactional emails - Tokens renewed, daily notifications, etc  Result emails - update for results from quizzes etc", 
+            "title": "Sasensei - Settings"
+        }, 
+        {
+            "location": "/settings/#merge_accounts", 
+            "text": "The merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:  1) New reputation will be the max of old and new reputation  2) New tokens balance is more complicated to prevent abuse.  The rules are:   if merging account has  = 8 tokens, then don't add any tokens  if merging account has   20 tokens, then add (merging account tokens - 8)  otherwise, sum tokens from both accounts", 
+            "title": "Merge Accounts"
+        }, 
+        {
             "location": "/badges/", 
             "text": "Sasensei - Badges\n\n\nBadges are divided into two categories - \nExplorer\n (for uncovering features of the site) and \nAchievement\n (those that take some effort to obtain)\n\n\nExplorer Badges\n\n\nThe following badges are only awarded once!\n\n\n\n\n\n\n\n\n\n\nBadge\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nVoter\n\n\nFirst vote.  Votes are essential to promote good content, and to weed out the bad!\n\n\n\n\n\n\nCommenter\n\n\nFirst comment, be that on a flashcard or question.  Constructive comments help to improve site content for everyone!\n\n\n\n\n\n\nFlashcard Submitter\n\n\nFirst flashcard submitted, and accepted.  Given that flashcards are free to play, submitted flashcards are a great opportunity to earn tokens and reputation!\n\n\n\n\n\n\nFlashcard Reviewer\n\n\nFirst card reviewed.  Flashcards are an educational tool for everyone (not just signed up players).  Lets make them great!\n\n\n\n\n\n\nStreaker\n\n\nFirst streak (3+ correct questions in a row in RUN mode).\n\n\n\n\n\n\nQuestion Submitter\n\n\nFirst question submitted, and accepted.\n\n\n\n\n\n\nQuestion Reviewer\n\n\nFirst question reviewed.  Questions cost tokens to play, so a high standard is expected and required!\n\n\n\n\n\n\nCertified\n\n\nFirst public quiz, passing 75% or more\n\n\n\n\n\n\nChallenger\n\n\nCreates first multiplayer quiz, with at least one other player who passes\n\n\n\n\n\n\nChallengee\n\n\nFinishes a multiplayer quiz where somebody else is the host (answers all questions)\n\n\n\n\n\n\nQuiz Master\n\n\nCreate first custom quiz with at least one player who passes\n\n\n\n\n\n\nQuiz Apprentice\n\n\nPlay first custom quiz\n\n\n\n\n\n\n\n\nAchievement Badges\n\n\nThese badges demonstrate true community involvement and technical prowess!  They can all be earned multiple times.\n\n\n\n\n\n\n\n\n\n\nBadge\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\nGreat Flashcard\n\n\nFlashcard has 15+ upvotes (once per flashcard)\n\n\n\n\n\n\nGreat Question\n\n\nQuestion has 15+ upvotes (once per question)\n\n\n\n\n\n\nDifficult Question\n\n\nCreates a question with 10+ upvotes and \n20% pass rate\n\n\n\n\n\n\nEasy Question\n\n\nCreates a question with 10+ upvotes and \n80% pass rate\n\n\n\n\n\n\nReferrer\n\n\nRefer a signup who achieves yellow belt\n\n\n\n\n\n\nTop Student\n\n\nPass public quiz with a 100% pass rate\n\n\n\n\n\n\nSpeedy Gonzalez\n\n\nPass public quiz with a 100% pass rate in under 2 minutes\n\n\n\n\n\n\nRegular\n\n\nVisit the site every day for 7 days (resets on 7th day)\n\n\n\n\n\n\nResident\n\n\nVisit the site every day for 1 month (resets on final day)\n\n\n\n\n\n\nAnnualno\n\n\nMember for one year (anniversary of signup)", 
             "title": "Badges"
@@ -296,19 +311,74 @@
             "title": "Achievement Badges"
         }, 
         {
-            "location": "/settings/", 
-            "text": "Sasensei - Settings\n\n\nThe settings panel lets you change your:\n\n\n\n\nAvatar\n\n\nUsername (used on public profile and transactional mails)\n\n\nName (used in certificate and promotional mails)\n\n\nPassword\n\n\nCountry\n\n\nBiography\n\n\n\n\nYou can also enable / disable emails for:\n\n\n\n\nTransactional emails - Tokens renewed, daily notifications, etc\n\n\nResult emails - update for results from quizzes etc\n\n\n\n\nMerge Accounts\n\n\nThe merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:\n\n\n1) New reputation will be the max of old and new reputation\n\n\n2) New tokens balance is more complicated to prevent abuse.  The rules are:\n\n\n\n\nif merging account has \n= 8 tokens, then don't add any tokens\n\n\nif merging account has \n 20 tokens, then add (merging account tokens - 8)\n\n\notherwise, sum tokens from both accounts", 
-            "title": "Settings"
+            "location": "/communities/", 
+            "text": "Sasensei - XXX_COMMUNITY_XXXX\n\n\nComing Soon!!!\n\n\nThe documentation below describes the upcoming community functionality, to be released in phases during 2019.\n\n\nOverview\n\n\nThe community feature enables players to communicate with each other via chat boards.  There are several types of community, each of which has a slightly different feature set.\n\n\n\n\nNote\n\n\nRemember that this is a public site, accessible to minors and people of many alternative persuasions!  The purpose of making this chat available is purely to discuss XXX_TOPIC_XXX related topics.  There is zero tolerance for hate speech, innuendo, harassment, trolling, or anything that would cause offence in a church, mosque, or in front of your grandma.\n\n\n\n\nFeatures\n\n\nChat lists\n\n\nDiscussions in each of your communities are held in a chat list.  You can open a chat list to view new messages.  Chat history is private to the site (not indexed by search engines, or visible without logging in).  Up to 1000 messages are kept in history for each community.  Messages are limited to 512 characters.  Players must be at least Yellow Belt to comment.\n\n\nLeaderboards\n\n\nEvery player will choose a primary Country and Tag on signup.  They may also choose a primary Club and Company in Settings.  Players can join additional communities, however (for leaderboard rankings) their reputation will only count towards their primary community within each community type.\n\n\nAdmins\n\n\nClubs, Companies, and Teams, have Admins.  Admins have the following powers:\n\n\n\n\nAbility to mark other players as admins\n\n\nAbility to update the community picture and profile\n\n\nAbility to remove players from the community\n\n\nAbility to delete messages\n\n\n\n\nA Super Admin has the ability to remove admins.\n\n\nCommunity Types\n\n\nThe following matrix shows the features of the different community types:\n\n\n\n\n\n\n\n\n\n\nType\n\n\nHas Admins\n\n\nLeaderboards\n\n\nSetup Fee\n\n\nPublicly Visible\n\n\n\n\n\n\n\n\n\n\nTopic\n\n\nNo\n\n\nNo\n\n\nNo\n\n\nYes\n\n\n\n\n\n\nCountry\n\n\nNo\n\n\nYes\n\n\nNo\n\n\nYes\n\n\n\n\n\n\nClub\n\n\nYes\n\n\nYes\n\n\nNo\u00b9\n\n\nYes\n\n\n\n\n\n\nCompany\n\n\nYes\n\n\nYes\n\n\nYes\n\n\nNo\n\n\n\n\n\n\nTeam\n\n\nYes\n\n\nNo\n\n\nYes\n\n\nNo\n\n\n\n\n\n\n\n\n\u00b9 Users of Sasamurai may request a new Club so long as evidence of club representation can be provided\n\n\nTag\n\n\nThe tag boards are pure chat boards.  They are in place to discuss particular tags.  Players are automatically enrolled in the primary tag chosen on signup. It costs 2 tokens to join additional tags.  Primary tags can be changed in the settings panel.\n\n\nCountry\n\n\nThe country boards include leaderboards.  Leaderboards are shown publically, and categories include:\n\n\n\n\nIndividual (top 10 players in that country)\n\n\nCompany (top 10 companies in that country)\n\n\nClub (top 10 clubs in that country)\n\n\n\n\nAll members are automatically enrolled in the country chosen on signup.\n\n\nClub\n\n\nClubs are established organisations, whose purpose is to promote and to educate.  Leaderboard categories include:\n\n\n\n\nIndividual (top 10 players in the club)\n\n\nCountry (top 10 countries in that club)\n\n\n\n\nclubs have admins\nanyone can join a club\n\n\nCompanies\n\n\n\n\ncosts tokens to set up\n\n\nhas admins\n\n\nleaderboard within a company\n\n\n\n\nTeams\n\n\nthese will be used primarily for multiplayer / quizzes, at events, needs more thought", 
+            "title": "Communities"
         }, 
         {
-            "location": "/settings/#xxx_short_name_xxx_-_settings", 
-            "text": "The settings panel lets you change your:   Avatar  Username (used on public profile and transactional mails)  Name (used in certificate and promotional mails)  Password  Country  Biography   You can also enable / disable emails for:   Transactional emails - Tokens renewed, daily notifications, etc  Result emails - update for results from quizzes etc", 
-            "title": "Sasensei - Settings"
+            "location": "/communities/#xxx_short_name_xxx_-_xxx_community_xxxx", 
+            "text": "", 
+            "title": "Sasensei - XXX_COMMUNITY_XXXX"
         }, 
         {
-            "location": "/settings/#merge_accounts", 
-            "text": "The merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:  1) New reputation will be the max of old and new reputation  2) New tokens balance is more complicated to prevent abuse.  The rules are:   if merging account has  = 8 tokens, then don't add any tokens  if merging account has   20 tokens, then add (merging account tokens - 8)  otherwise, sum tokens from both accounts", 
-            "title": "Merge Accounts"
+            "location": "/communities/#coming_soon", 
+            "text": "The documentation below describes the upcoming community functionality, to be released in phases during 2019.", 
+            "title": "Coming Soon!!!"
+        }, 
+        {
+            "location": "/communities/#overview", 
+            "text": "The community feature enables players to communicate with each other via chat boards.  There are several types of community, each of which has a slightly different feature set.   Note  Remember that this is a public site, accessible to minors and people of many alternative persuasions!  The purpose of making this chat available is purely to discuss XXX_TOPIC_XXX related topics.  There is zero tolerance for hate speech, innuendo, harassment, trolling, or anything that would cause offence in a church, mosque, or in front of your grandma.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/communities/#features", 
+            "text": "", 
+            "title": "Features"
+        }, 
+        {
+            "location": "/communities/#chat_lists", 
+            "text": "Discussions in each of your communities are held in a chat list.  You can open a chat list to view new messages.  Chat history is private to the site (not indexed by search engines, or visible without logging in).  Up to 1000 messages are kept in history for each community.  Messages are limited to 512 characters.  Players must be at least Yellow Belt to comment.", 
+            "title": "Chat lists"
+        }, 
+        {
+            "location": "/communities/#leaderboards", 
+            "text": "Every player will choose a primary Country and Tag on signup.  They may also choose a primary Club and Company in Settings.  Players can join additional communities, however (for leaderboard rankings) their reputation will only count towards their primary community within each community type.", 
+            "title": "Leaderboards"
+        }, 
+        {
+            "location": "/communities/#admins", 
+            "text": "Clubs, Companies, and Teams, have Admins.  Admins have the following powers:   Ability to mark other players as admins  Ability to update the community picture and profile  Ability to remove players from the community  Ability to delete messages   A Super Admin has the ability to remove admins.", 
+            "title": "Admins"
+        }, 
+        {
+            "location": "/communities/#community_types", 
+            "text": "The following matrix shows the features of the different community types:      Type  Has Admins  Leaderboards  Setup Fee  Publicly Visible      Topic  No  No  No  Yes    Country  No  Yes  No  Yes    Club  Yes  Yes  No\u00b9  Yes    Company  Yes  Yes  Yes  No    Team  Yes  No  Yes  No     \u00b9 Users of Sasamurai may request a new Club so long as evidence of club representation can be provided", 
+            "title": "Community Types"
+        }, 
+        {
+            "location": "/communities/#tag", 
+            "text": "The tag boards are pure chat boards.  They are in place to discuss particular tags.  Players are automatically enrolled in the primary tag chosen on signup. It costs 2 tokens to join additional tags.  Primary tags can be changed in the settings panel.", 
+            "title": "Tag"
+        }, 
+        {
+            "location": "/communities/#country", 
+            "text": "The country boards include leaderboards.  Leaderboards are shown publically, and categories include:   Individual (top 10 players in that country)  Company (top 10 companies in that country)  Club (top 10 clubs in that country)   All members are automatically enrolled in the country chosen on signup.", 
+            "title": "Country"
+        }, 
+        {
+            "location": "/communities/#club", 
+            "text": "Clubs are established organisations, whose purpose is to promote and to educate.  Leaderboard categories include:   Individual (top 10 players in the club)  Country (top 10 countries in that club)   clubs have admins\nanyone can join a club", 
+            "title": "Club"
+        }, 
+        {
+            "location": "/communities/#companies", 
+            "text": "costs tokens to set up  has admins  leaderboard within a company", 
+            "title": "Companies"
+        }, 
+        {
+            "location": "/communities/#teams", 
+            "text": "these will be used primarily for multiplayer / quizzes, at events, needs more thought", 
+            "title": "Teams"
         }, 
         {
             "location": "/events/", 
