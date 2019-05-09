@@ -318,9 +318,38 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Settings
+      </label>
+    
     <a href="./" title="Settings" class="md-nav__link md-nav__link--active">
       Settings
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#merge_accounts" title="Merge Accounts" class="md-nav__link">
+    Merge Accounts
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -455,6 +484,22 @@
     
   
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#merge_accounts" title="Merge Accounts" class="md-nav__link">
+    Merge Accounts
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -481,6 +526,13 @@
 <li>Transactional emails - Tokens renewed, daily notifications, etc</li>
 <li>Result emails - update for results from quizzes etc</li>
 </ul>
+<h2 id="merge_accounts">Merge Accounts<a class="headerlink" href="#merge_accounts" title="Permanent link">&para;</a></h2>
+<p>The merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:</p>
+<p>1) New reputation will be the max of old and new reputation
+2) New tokens balance is more complicated to prevent abuse.  The rules are:
+ * if merging account has &lt;= 8 tokens, then don't add any tokens
+ * if merging account has &lt; 20 tokens, then add (merging account tokens - 8)
+ * otherwise, sum tokens from both accounts</p>
                 
                   
                 
