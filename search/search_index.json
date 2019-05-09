@@ -297,7 +297,7 @@
         }, 
         {
             "location": "/settings/", 
-            "text": "Sasensei - Settings\n\n\nThe settings panel lets you change your:\n\n\n\n\nAvatar\n\n\nUsername (used on public profile and transactional mails)\n\n\nName (used in certificate and promotional mails)\n\n\nPassword\n\n\nCountry\n\n\nBiography\n\n\n\n\nYou can also enable / disable emails for:\n\n\n\n\nTransactional emails - Tokens renewed, daily notifications, etc\n\n\nResult emails - update for results from quizzes etc\n\n\n\n\nMerge Accounts\n\n\nThe merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:\n\n\n1) New reputation will be the max of old and new reputation\n2) New tokens balance is more complicated to prevent abuse.  The rules are:\n * if merging account has \n= 8 tokens, then don't add any tokens\n * if merging account has \n 20 tokens, then add (merging account tokens - 8)\n * otherwise, sum tokens from both accounts", 
+            "text": "Sasensei - Settings\n\n\nThe settings panel lets you change your:\n\n\n\n\nAvatar\n\n\nUsername (used on public profile and transactional mails)\n\n\nName (used in certificate and promotional mails)\n\n\nPassword\n\n\nCountry\n\n\nBiography\n\n\n\n\nYou can also enable / disable emails for:\n\n\n\n\nTransactional emails - Tokens renewed, daily notifications, etc\n\n\nResult emails - update for results from quizzes etc\n\n\n\n\nMerge Accounts\n\n\nThe merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:\n\n\n1) New reputation will be the max of old and new reputation\n\n\n2) New tokens balance is more complicated to prevent abuse.  The rules are:\n\n\n\n\nif merging account has \n= 8 tokens, then don't add any tokens\n\n\nif merging account has \n 20 tokens, then add (merging account tokens - 8)\n\n\notherwise, sum tokens from both accounts", 
             "title": "Settings"
         }, 
         {
@@ -307,7 +307,7 @@
         }, 
         {
             "location": "/settings/#merge_accounts", 
-            "text": "The merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:  1) New reputation will be the max of old and new reputation\n2) New tokens balance is more complicated to prevent abuse.  The rules are:\n * if merging account has  = 8 tokens, then don't add any tokens\n * if merging account has   20 tokens, then add (merging account tokens - 8)\n * otherwise, sum tokens from both accounts", 
+            "text": "The merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:  1) New reputation will be the max of old and new reputation  2) New tokens balance is more complicated to prevent abuse.  The rules are:   if merging account has  = 8 tokens, then don't add any tokens  if merging account has   20 tokens, then add (merging account tokens - 8)  otherwise, sum tokens from both accounts", 
             "title": "Merge Accounts"
         }, 
         {
