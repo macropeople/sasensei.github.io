@@ -36,51 +36,6 @@
             "title": "Sasensei - Signup"
         }, 
         {
-            "location": "/levels/", 
-            "text": "Sasensei - Levels\n\n\nWhite Belt\n\n\nNew players have access to RUN Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation (or instantly with a streak of 10), this level enables Comments and the ability to view the last 12 questions taken.\n\n\nWhen you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice!\n\n\nThe \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation (or instantly with a streak of 20), this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables \nMULTIPLAYER\n mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
-            "title": "Levels"
-        }, 
-        {
-            "location": "/levels/#xxx_short_name_xxx_-_levels", 
-            "text": "", 
-            "title": "Sasensei - Levels"
-        }, 
-        {
-            "location": "/levels/#White Belt", 
-            "text": "New players have access to RUN Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!", 
-            "title": "White Belt"
-        }, 
-        {
-            "location": "/levels/#Yellow Belt", 
-            "text": "Auto-unlocked at 50 reputation (or instantly with a streak of 10), this level enables Comments and the ability to view the last 12 questions taken.  When you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice!  The \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.", 
-            "title": "Yellow Belt"
-        }, 
-        {
-            "location": "/levels/#Green Belt", 
-            "text": "Auto-unlocked at 100 reputation (or instantly with a streak of 20), this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!", 
-            "title": "Green Belt"
-        }, 
-        {
-            "location": "/levels/#Black Belt", 
-            "text": "Auto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!", 
-            "title": "Black Belt"
-        }, 
-        {
-            "location": "/levels/#Sasamurai", 
-            "text": "This rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.", 
-            "title": "Sasamurai"
-        }, 
-        {
-            "location": "/levels/#Assassin", 
-            "text": "This rank enables  MULTIPLAYER  mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.", 
-            "title": "Assassin"
-        }, 
-        {
-            "location": "/levels/#Sasensei", 
-            "text": "This position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
-            "title": "Sasensei"
-        }, 
-        {
             "location": "/flashcards/", 
             "text": "Sasensei - Flashcards\n\n\nFlashcards contain a variety of content, which can be filtered by Tag, Difficulty, or searching the Title and Body.  If you think a flashcard contains good (or bad) content, be sure to vote it up or down - and comment if you think it can be improved!\n\n\nRun\n\n\nRUN flashcards lets you browse content, perform full text search, play randomly or within a topic, and save flashcards for later browsing.  Flashcards are divided by difficulty (Beginner, Intermediate, Advanced).  This game can be played by anyone (even without an account)\n\n\nSaved\n\n\nThis is a repository of flashcards saved for future review.\n\n\nSubmit\n\n\nSubmit new flashcards here for others to enjoy.  This costs 2 tokens, but lets you earn tokens (and reputation) every time your flashcard is upvoted.  Good content is well written, interesting, relevant (eg to the tags you have chosen) and suitable for all ages!\n\n\nIf you are embedding videos, it is recommended to mute the sound.  If you are using youtube for this, you can mute it by adding \nmute=1\n to the URL in the embed code (\niframe\n).\n\n\nSubmitted\n\n\nKeep track of the flashcards you have submitted.\n\n\nReview\n\n\nThose who have achieved the rank of Black Belt can review the flaschards submitted (or edited, or downvoted) by others.  This is a chance to help ensure that content submitted on Sasensei is of an appropriate standard! The impact of a review depends on why the question was in review, as follows:\n\n\nNew Flaschards\n\n\nNew flaschards are not released to the question bank until they receive 3 accepts.  If they receive 3 rejections, the question is marked as deleted.  After 3 accepts / rejects, the new flashcard is also removed from REVIEW.\n\n\nEdited Flashcards\n\n\nIf a flashcard is edited, the edited version is put to review, and is not made available in RUN until it receives 3 accepts. The original flashcard remains available in RUN.  If the edit is rejected, it is removed from REVIEW, and the original flashcard is unaffected.  If the edit is accepted, the original flashcard is replaced with the edited version.\n\n\nDownvoted Flashcards\n\n\nA downvote will force a review on the following basis:\n\n\n\n\nCard has \n 10 upvotes - any downvote triggers a review\n\n\nCard has 10 \n 20 upvotes - downvoter must be Black Belt or above to trigger review\n\n\nCard has 20 \n 30 upvotes - downvoter must be Sasamurai or above to trigger review\n\n\nCard has \n30 upvotes - downvoter must be Assassin or above to trigger review\n\n\n\n\nReviewed\n\n\nCheck out the last 12 flashcards reviewed.", 
             "title": "Flashcards"
@@ -289,6 +244,51 @@
             "location": "/settings/#merge_accounts", 
             "text": "The merge accounts feature lets you sign in with multiple authentication providers (eg linkedin, gmail, twitter, email).  If you merge an account, the following steps take place:  1) New reputation will be the max of old and new reputation  2) New tokens balance is more complicated to prevent abuse.  The rules are:   if merging account has  = 8 tokens, then don't add any tokens  if merging account has   20 tokens, then add (merging account tokens - 8)  otherwise, take max of tokens from both accounts", 
             "title": "Merge Accounts"
+        }, 
+        {
+            "location": "/levels/", 
+            "text": "Sasensei - Levels\n\n\nWhite Belt\n\n\nNew players have access to RUN Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!\n\n\nYellow Belt\n\n\nAuto-unlocked at 50 reputation (or instantly with a streak of 10), this level enables Comments and the ability to view the last 12 questions taken.\n\n\nWhen you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice!\n\n\nThe \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.\n\n\nGreen Belt\n\n\nAuto-unlocked at 100 reputation (or instantly with a streak of 20), this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!\n\n\nBlack Belt\n\n\nAuto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!\n\n\nSasamurai\n\n\nThis rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.\n\n\nAssassin\n\n\nThis rank enables \nMULTIPLAYER\n mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.\n\n\nSasensei\n\n\nThis position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
+            "title": "Levels"
+        }, 
+        {
+            "location": "/levels/#xxx_short_name_xxx_-_levels", 
+            "text": "", 
+            "title": "Sasensei - Levels"
+        }, 
+        {
+            "location": "/levels/#White Belt", 
+            "text": "New players have access to RUN Cards only - to unlock more levels, you must prove yourself by earning reputation.  Remember to vote (up, down, or neutral) to get extra rep points!", 
+            "title": "White Belt"
+        }, 
+        {
+            "location": "/levels/#Yellow Belt", 
+            "text": "Auto-unlocked at 50 reputation (or instantly with a streak of 10), this level enables Comments and the ability to view the last 12 questions taken.  When you comment on any question, or flashcard, the submitter and all other commenters are notified.  The purpose of comments is to give constructive feedback on questions, or to provide more information for players.  Be nice!  The \"questions taken\" screen is your chance to review any interesting, or troublesome questions from RUN cards.", 
+            "title": "Yellow Belt"
+        }, 
+        {
+            "location": "/levels/#Green Belt", 
+            "text": "Auto-unlocked at 100 reputation (or instantly with a streak of 20), this bestows the right to SUBMIT cards.  Not only is submitting cards a great way to learn, if your cards are accepted you will begin earning tokens and reputation every time they are voted up!", 
+            "title": "Green Belt"
+        }, 
+        {
+            "location": "/levels/#Black Belt", 
+            "text": "Auto-unlocked at 200 reputation, this enables you to give feedback to those who are submitting new content in REVIEW mode.  The success of the site depends on the quality of the content submitted, so this is an important role indeed!", 
+            "title": "Black Belt"
+        }, 
+        {
+            "location": "/levels/#Sasamurai", 
+            "text": "This rank bestows the privilege to enter PUBLIC QUIZ mode and the chance to reign victorious in the Leaderboards therein. This level is auto-unlocked at 500 reputation.", 
+            "title": "Sasamurai"
+        }, 
+        {
+            "location": "/levels/#Assassin", 
+            "text": "This rank enables  MULTIPLAYER  mode and the chance to battle against 200 players at once. Auto unlocked at 1000 rep.", 
+            "title": "Assassin"
+        }, 
+        {
+            "location": "/levels/#Sasensei", 
+            "text": "This position bestows the power to edit all questions, to create new tags, to create user-input style questions, and the ability to create bespoke quizzes for students.\nUnlocked at 5000 rep.", 
+            "title": "Sasensei"
         }, 
         {
             "location": "/badges/", 
