@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93.538 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #34485e;
+      }
+    </style>
+  </defs>
+  <g id="level-up" transform="translate(-2.1)">
+    <g id="Group_522" data-name="Group 522" transform="translate(2.1 0)">
+      <path id="Path_583" data-name="Path 583" class="cls-1" d="M38.154,4.2,33.231,14.354,22,15.892l8.154,7.846-2,11.231,10-5.385,10,5.385-2-11.077,8.154-7.846L43.077,14.508Zm5.538,18.923,1.385,7.846-6.923-3.692-6.923,3.538,1.385-7.846-5.692-5.538,7.846-1.077,3.385-7.077,3.385,7.077,7.846,1.077Z" transform="translate(8.615 2.262)"/>
+      <path id="Path_584" data-name="Path 584" class="cls-1" d="M40.792,0A23.692,23.692,0,1,0,64.485,23.692,23.7,23.7,0,0,0,40.792,0Zm0,45.231A21.385,21.385,0,1,1,62.177,23.846,21.437,21.437,0,0,1,40.792,45.231Z" transform="translate(5.977 0)"/>
+      <path id="Path_585" data-name="Path 585" class="cls-1" d="M39.015,35.877a27.261,27.261,0,0,1-16.769-5.692L20.4,28.8V84.492L39.015,68.8,57.631,84.492V28.8l-1.846,1.385A26.343,26.343,0,0,1,39.015,35.877ZM22.708,33.415A28.474,28.474,0,0,0,28.4,36.338V74.954l-5.692,4.769Zm7.846,39.538v-36a31.257,31.257,0,0,0,8.462,1.231,31.257,31.257,0,0,0,8.462-1.231v36l-8.462-7.077Zm24.769,6.615L49.631,74.8V36.185a28.473,28.473,0,0,0,5.692-2.923Z" transform="translate(7.754 15.508)"/>
+      <rect id="Rectangle_1117" data-name="Rectangle 1117" class="cls-1" width="9.692" height="2.308" transform="matrix(-0.866, -0.5, 0.5, -0.866, 86.696, 75.562)"/>
+      <rect id="Rectangle_1118" data-name="Rectangle 1118" class="cls-1" width="9.692" height="2.308" transform="translate(83.846 50)"/>
+      <rect id="Rectangle_1119" data-name="Rectangle 1119" class="cls-1" width="2.308" height="9.692" transform="matrix(0.5, 0.866, -0.866, 0.5, 86.683, 26.795)"/>
+      <rect id="Rectangle_1120" data-name="Rectangle 1120" class="cls-1" width="9.692" height="2.308" transform="translate(0 50)"/>
+      <rect id="Rectangle_1121" data-name="Rectangle 1121" class="cls-1" width="2.308" height="9.692" transform="matrix(-0.5, -0.866, 0.866, -0.5, 6.778, 75.588)"/>
+      <rect id="Rectangle_1122" data-name="Rectangle 1122" class="cls-1" width="9.692" height="2.308" transform="matrix(-0.866, -0.5, 0.5, -0.866, 14.108, 33.506)"/>
+    </g>
+  </g>
+</svg>

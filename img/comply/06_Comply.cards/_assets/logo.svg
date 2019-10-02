@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="186px" height="66px" viewBox="0 0 186 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E53935" offset="0%"></stop>
+            <stop stop-color="#E35D5C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing-page" transform="translate(-86.000000, -32.000000)">
+            <g id="//-Header" transform="translate(85.000000, 30.000000)">
+                <g id="_navigation">
+                    <g id="logo">
+                        <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(57.500000, 35.000000) rotate(-347.000000) translate(-57.500000, -35.000000) " x="4" y="12" width="107" height="46" rx="8"></rect>
+                        <text id="comply." font-family="ProximaNovaA-Bold, Proxima Nova Alt" font-size="28" font-weight="bold" letter-spacing="-0.9999999" fill="#FFFFFF">
+                            <tspan x="10" y="42">comply.</tspan>
+                        </text>
+                        <text id="cards." font-family="ProximaNovaA-Bold, Proxima Nova Alt" font-size="28" font-weight="bold" letter-spacing="-0.9999999" fill="#3E3E3E">
+                            <tspan x="116" y="42">cards.</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

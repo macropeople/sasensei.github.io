@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="profile&gt;edit-profile-(1)" transform="translate(-1674.000000, -279.000000)" fill="#3E3E3E" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(434.000000, 208.000000)">
+                <g id="table-copy-2">
+                    <g id="Close" transform="translate(1239.000000, 70.000000)">
+                        <path d="M1.575,22.425 C2.16074978,23.0105729 3.11025022,23.0105729 3.696,22.425 L12,14.121 L20.304,22.425 C20.8925683,22.9934583 21.8281272,22.9853286 22.4067279,22.4067279 C22.9853286,21.8281272 22.9934583,20.8925683 22.425,20.304 L14.121,12 L22.425,3.696 C22.9934583,3.10743167 22.9853286,2.17187283 22.4067279,1.59327214 C21.8281272,1.01467144 20.8925683,1.00654169 20.304,1.575 L12,9.879 L3.696,1.575 C3.10743167,1.00654169 2.17187283,1.01467144 1.59327214,1.59327214 C1.01467144,2.17187283 1.00654169,3.10743167 1.575,3.696 L9.879,12 L1.575,20.304 C0.989427093,20.8897498 0.989427093,21.8392502 1.575,22.425 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

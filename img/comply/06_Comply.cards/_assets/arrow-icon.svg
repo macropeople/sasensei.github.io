@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="11px" viewBox="0 0 22 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>button copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="0" y="0" width="22" height="11" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fl&gt;run&gt;fl-read-copy" transform="translate(-460.000000, -950.000000)">
+            <g id="Group-3" transform="translate(381.000000, 164.000000)">
+                <g id="Group-2">
+                    <g id="_center">
+                        <g id="votes" transform="translate(0.000000, 733.000000)">
+                            <g id="button-copy-2" transform="translate(79.000000, 53.000000)">
+                                <g id="Right-Arrow-1@2x" transform="translate(11.000000, 5.500000) scale(-1, 1) translate(-11.000000, -5.500000) ">
+                                    <image x="0" y="0" width="22" height="11" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAWCAYAAAC7ZX7KAAAABGdBTUEAALGOGCHvlwAAAJlJREFUSA3tlzEKgDAQBNXCHwgW/v8lWqUQbX2M7oJFAhYp9ogHd7CgIOswSA67rv2sQEjI1B6ljmDHYzdyIi6g5xfWFTTN0nBAQ4LphGlTvVl5mM5kmF5+muam4XHiIWkAaG/qSFs+auv0bfkncaF+0b9C1xiwOpdlU5gtfejuwqzOZdnkyizR+T/HLfv7c5awnA05kKql8ABH2WGO+UWqwwAAAABJRU5ErkJggg=="></image>
+                                    <use fill="#9B9B9B" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
